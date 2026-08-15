@@ -256,7 +256,7 @@
             "last_commit": "2026-08-12T19:05:57Z",
             "owner": "stalniy",
             "repo": "casl",
-            "stars": 7033
+            "stars": 7036
           }
         },
         {
@@ -1055,7 +1055,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-06-24T22:47:49Z",
+            "last_commit": "2026-08-14T15:05:25Z",
             "owner": "stamp-web",
             "repo": "stamp-web-aurelia",
             "stars": 17
@@ -1123,10 +1123,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T21:59:23Z",
+            "last_commit": "2026-08-15T00:09:26Z",
             "owner": "ag-grid",
             "repo": "ag-grid",
-            "stars": 15537
+            "stars": 15542
           }
         },
         {
@@ -1436,10 +1436,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T01:06:52Z",
+            "last_commit": "2026-08-14T19:07:48Z",
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110177
+            "stars": 110162
           }
         },
         {
@@ -1450,7 +1450,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T02:41:51Z",
+            "last_commit": "2026-08-14T20:35:09Z",
             "owner": "DefinitelyTyped",
             "repo": "DefinitelyTyped",
             "stars": 51371
@@ -1566,7 +1566,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T04:11:08.548Z",
+    "last_updated": "2026-08-15T02:53:10.539Z",
     "original_repository": "aurelia-contrib/awesome-aurelia",
     "original_repository_sha": "db81f616303f585cd74f8a4758e4825457966cf8",
     "enhanced_repository": "enhansome/enhansome-aurelia",
