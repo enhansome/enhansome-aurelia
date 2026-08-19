@@ -1123,10 +1123,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T17:07:30Z",
+            "last_commit": "2026-08-18T19:45:57Z",
             "owner": "ag-grid",
             "repo": "ag-grid",
-            "stars": 15544
+            "stars": 15547
           }
         },
         {
@@ -1324,7 +1324,7 @@
             "last_commit": "2015-09-25T01:32:11Z",
             "owner": "jdanyow",
             "repo": "aurelia-solitaire",
-            "stars": 74
+            "stars": 73
           }
         },
         {
@@ -1439,7 +1439,7 @@
             "last_commit": "2026-08-14T19:07:48Z",
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110183
+            "stars": 110197
           }
         },
         {
@@ -1450,10 +1450,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T23:14:58Z",
+            "last_commit": "2026-08-18T07:16:53Z",
             "owner": "DefinitelyTyped",
             "repo": "DefinitelyTyped",
-            "stars": 51374
+            "stars": 51376
           }
         }
       ],
@@ -1566,7 +1566,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T02:56:41.555Z",
+    "last_updated": "2026-08-19T02:58:18.249Z",
     "original_repository": "aurelia-contrib/awesome-aurelia",
     "original_repository_sha": "db81f616303f585cd74f8a4758e4825457966cf8",
     "enhanced_repository": "enhansome/enhansome-aurelia",
