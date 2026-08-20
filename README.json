@@ -254,10 +254,10 @@
                     "archived": false,
                     "id": 97627474,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-19T04:50:35Z",
+                    "last_commit": "2026-08-19T17:13:02Z",
                     "owner": "stalniy",
                     "repo": "casl",
-                    "stars": 7041
+                    "stars": 7042
                   }
                 },
                 {
@@ -1168,10 +1168,10 @@
                     "archived": false,
                     "id": 28407613,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-19T12:18:41Z",
+                    "last_commit": "2026-08-19T21:58:09Z",
                     "owner": "ag-grid",
                     "repo": "ag-grid",
-                    "stars": 15548
+                    "stars": 15550
                   }
                 },
                 {
@@ -1498,7 +1498,7 @@
                     "last_commit": "2026-08-14T19:07:48Z",
                     "owner": "microsoft",
                     "repo": "TypeScript",
-                    "stars": 110204
+                    "stars": 110212
                   }
                 },
                 {
@@ -1510,10 +1510,10 @@
                     "archived": false,
                     "id": 6093316,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-19T11:47:15Z",
+                    "last_commit": "2026-08-20T00:07:55Z",
                     "owner": "DefinitelyTyped",
                     "repo": "DefinitelyTyped",
-                    "stars": 51375
+                    "stars": 51378
                   }
                 }
               ],
@@ -1628,7 +1628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:19:04.429Z",
+    "last_updated": "2026-08-20T02:58:06.629Z",
     "original_repository": "aurelia-contrib/awesome-aurelia",
     "original_repository_id": 49408207,
     "original_repository_sha": "db81f616303f585cd74f8a4758e4825457966cf8",
