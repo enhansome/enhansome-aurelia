@@ -257,7 +257,7 @@
                     "last_commit": "2026-08-19T17:13:02Z",
                     "owner": "stalniy",
                     "repo": "casl",
-                    "stars": 7042
+                    "stars": 7044
                   }
                 },
                 {
@@ -1101,7 +1101,7 @@
                     "archived": false,
                     "id": 34555916,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-14T15:05:25Z",
+                    "last_commit": "2026-08-20T04:20:54Z",
                     "owner": "stamp-web",
                     "repo": "stamp-web-aurelia",
                     "stars": 17
@@ -1168,10 +1168,10 @@
                     "archived": false,
                     "id": 28407613,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-19T21:58:09Z",
+                    "last_commit": "2026-08-20T21:05:06Z",
                     "owner": "ag-grid",
                     "repo": "ag-grid",
-                    "stars": 15550
+                    "stars": 15552
                   }
                 },
                 {
@@ -1494,11 +1494,11 @@
                   "repo_info": {
                     "archived": false,
                     "id": 20929025,
-                    "language": "TypeScript",
-                    "last_commit": "2026-08-14T19:07:48Z",
+                    "language": "Go",
+                    "last_commit": "2026-08-20T20:41:20Z",
                     "owner": "microsoft",
                     "repo": "TypeScript",
-                    "stars": 110212
+                    "stars": 110316
                   }
                 },
                 {
@@ -1510,10 +1510,10 @@
                     "archived": false,
                     "id": 6093316,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-20T00:07:55Z",
+                    "last_commit": "2026-08-21T00:02:08Z",
                     "owner": "DefinitelyTyped",
                     "repo": "DefinitelyTyped",
-                    "stars": 51378
+                    "stars": 51381
                   }
                 }
               ],
@@ -1628,7 +1628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:58:06.629Z",
+    "last_updated": "2026-08-21T03:04:19.796Z",
     "original_repository": "aurelia-contrib/awesome-aurelia",
     "original_repository_id": 49408207,
     "original_repository_sha": "db81f616303f585cd74f8a4758e4825457966cf8",
