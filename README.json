@@ -1168,10 +1168,10 @@
                     "archived": false,
                     "id": 28407613,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-20T21:05:06Z",
+                    "last_commit": "2026-08-21T17:30:37Z",
                     "owner": "ag-grid",
                     "repo": "ag-grid",
-                    "stars": 15552
+                    "stars": 15554
                   }
                 },
                 {
@@ -1495,10 +1495,10 @@
                     "archived": false,
                     "id": 20929025,
                     "language": "Go",
-                    "last_commit": "2026-08-20T20:41:20Z",
+                    "last_commit": "2026-08-21T21:39:39Z",
                     "owner": "microsoft",
                     "repo": "TypeScript",
-                    "stars": 110316
+                    "stars": 110394
                   }
                 },
                 {
@@ -1510,7 +1510,7 @@
                     "archived": false,
                     "id": 6093316,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-21T00:02:08Z",
+                    "last_commit": "2026-08-22T01:06:42Z",
                     "owner": "DefinitelyTyped",
                     "repo": "DefinitelyTyped",
                     "stars": 51381
@@ -1628,7 +1628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T03:04:19.796Z",
+    "last_updated": "2026-08-22T02:55:25.480Z",
     "original_repository": "aurelia-contrib/awesome-aurelia",
     "original_repository_id": 49408207,
     "original_repository_sha": "db81f616303f585cd74f8a4758e4825457966cf8",
