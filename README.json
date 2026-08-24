@@ -9,6 +9,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Official GitHub Repo",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 27835638,
+                    "language": "TypeScript",
+                    "last_commit": "2023-01-27T11:32:58Z",
+                    "owner": "aurelia",
+                    "repo": "framework",
+                    "stars": 11672
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Official Resources"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "vscode-extension",
                   "description": "* An Aurelia extension for the VS Code editor that provides HTML syntax highlighting, statement completion and CLI integration.",
                   "children": [],
@@ -116,7 +138,7 @@
                     "last_commit": "2022-08-18T14:06:13Z",
                     "owner": "aurelia-contrib",
                     "repo": "awesome-aurelia",
-                    "stars": 309
+                    "stars": 310
                   }
                 }
               ],
@@ -165,6 +187,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Aurelia-styleguide",
+                  "description": "* A starting point for Aurelia development teams to provide consistency through best practices.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 45098024,
+                    "language": null,
+                    "last_commit": "2017-08-22T07:12:06Z",
+                    "owner": "behzad888",
+                    "repo": "Aurelia-styleguide",
+                    "stars": 24
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Aurelia Tutorials"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "{{ add_your_repo }}",
                   "description": null,
                   "children": [],
@@ -175,7 +219,7 @@
                     "last_commit": "2022-08-18T14:06:13Z",
                     "owner": "aurelia-contrib",
                     "repo": "awesome-aurelia",
-                    "stars": 309
+                    "stars": 310
                   }
                 },
                 {
@@ -254,10 +298,10 @@
                     "archived": false,
                     "id": 97627474,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-23T23:02:31Z",
+                    "last_commit": "2026-08-24T03:08:02Z",
                     "owner": "stalniy",
                     "repo": "casl",
-                    "stars": 7046
+                    "stars": 7049
                   }
                 },
                 {
@@ -272,7 +316,7 @@
                     "last_commit": "2022-08-18T14:06:13Z",
                     "owner": "aurelia-contrib",
                     "repo": "awesome-aurelia",
-                    "stars": 309
+                    "stars": 310
                   }
                 },
                 {
@@ -1168,10 +1212,10 @@
                     "archived": false,
                     "id": 28407613,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-23T21:23:32Z",
+                    "last_commit": "2026-08-24T13:55:51Z",
                     "owner": "ag-grid",
                     "repo": "ag-grid",
-                    "stars": 15560
+                    "stars": 15561
                   }
                 },
                 {
@@ -1290,7 +1334,7 @@
                     "last_commit": "2022-08-18T14:06:13Z",
                     "owner": "aurelia-contrib",
                     "repo": "awesome-aurelia",
-                    "stars": 309
+                    "stars": 310
                   }
                 },
                 {
@@ -1498,7 +1542,7 @@
                     "last_commit": "2026-08-24T01:47:42Z",
                     "owner": "microsoft",
                     "repo": "TypeScript",
-                    "stars": 110634
+                    "stars": 110650
                   }
                 },
                 {
@@ -1510,10 +1554,10 @@
                     "archived": false,
                     "id": 6093316,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-23T20:54:10Z",
+                    "last_commit": "2026-08-24T08:58:32Z",
                     "owner": "DefinitelyTyped",
                     "repo": "DefinitelyTyped",
-                    "stars": 51390
+                    "stars": 51393
                   }
                 }
               ],
@@ -1535,7 +1579,7 @@
                     "last_commit": "2022-08-18T14:06:13Z",
                     "owner": "aurelia-contrib",
                     "repo": "awesome-aurelia",
-                    "stars": 309
+                    "stars": 310
                   }
                 },
                 {
@@ -1622,13 +1666,115 @@
           "description": "TypeScript lets you write JavaScript the way you really want to. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.",
           "node_type": "group",
           "title": "TypeScript"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "{{ help_add_resources }}",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 49408207,
+                    "language": null,
+                    "last_commit": "2022-08-18T14:06:13Z",
+                    "owner": "aurelia-contrib",
+                    "repo": "awesome-aurelia",
+                    "stars": 310
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "ES5 General Resources"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ahmedshuhel/nav-app-es5",
+                  "description": "Skeleton that sets up a standard aurelia navigation-style app just using ES5, Bower and RequireJS by @ahmedshuhel.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 29360078,
+                    "language": "JavaScript",
+                    "last_commit": "2015-01-28T10:26:51Z",
+                    "owner": "ahmedshuhel",
+                    "repo": "nav-app-es5",
+                    "stars": 9
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "ES5 Seed Projects"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "aurelia-observer-patterns",
+                  "description": "* Simple examples for different methods of implementing observer patterns in Aurelia",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 56541586,
+                    "language": "JavaScript",
+                    "last_commit": "2016-04-24T17:13:15Z",
+                    "owner": "axwalker",
+                    "repo": "aurelia-observer-patterns",
+                    "stars": 27
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "ES5 Examples"
+            }
+          ],
+          "description": "An ECMAScript language that includes structured, dynamic, functional, and prototype-based features.",
+          "node_type": "group",
+          "title": "ES5"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "TsumiNa/meteor-aurelia",
+                  "description": "Skeleton that allows Meteor to use Aurelia as the front-end by @TsumiNa.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 43730303,
+                    "language": "JavaScript",
+                    "last_commit": "2018-06-15T12:29:25Z",
+                    "owner": "TsumiNa",
+                    "repo": "meteor-aurelia",
+                    "stars": 24
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Meteor Seed Projects"
+            }
+          ],
+          "description": "Meteor is a full stack JavaScript platform which can use Aurelia as its front-end framework.",
+          "node_type": "group",
+          "title": "Meteor"
         }
       ],
       "title": "Current Aurelia version"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:04:46.752Z",
+    "last_updated": "2026-08-24T14:27:10.489Z",
     "original_repository": "aurelia-contrib/awesome-aurelia",
     "original_repository_id": 49408207,
     "original_repository_sha": "db81f616303f585cd74f8a4758e4825457966cf8",

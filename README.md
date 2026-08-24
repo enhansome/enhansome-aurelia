@@ -51,12 +51,12 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Official Resources
 
+* [Official GitHub Repo](https://github.com/aurelia/framework) ⭐ 11,672 | 🐛 60 | 🌐 TypeScript | 📅 2023-01-27
 * [Official Site](http://aurelia.io)
 * [Official Blog](http://blog.aurelia.io/)
 * [Official Documentation](http://aurelia.io/docs.html)
 * [API Documentation](http://aurelia.io/docs.html#/api/home)
 * [Official Getting Started Guide](http://aurelia.io/docs.html#/aurelia/framework/latest/doc/article/getting-started)
-* [Official GitHub Repo](https://github.com/aurelia/framework) ⭐ 11,673 | 🐛 60 | 🌐 TypeScript | 📅 2023-01-27
 * [Rob Eisenberg on Twitter](https://twitter.com/eisenbergeffect)
 
 #### Community
@@ -102,7 +102,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Seed Project
 
-* [**{{** add\_your\_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md) ⭐ 309 | 🐛 0 | 📅 2022-08-18
+* [**{{** add\_your\_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md) ⭐ 310 | 🐛 0 | 📅 2022-08-18
 * [Beginner kits](https://github.com/aurelia/beginner-kits) \* Houses the beginner getting started started kits for ES 2016 and TypeScript.
 * [TypeScript + Webpack Starter Kit](https://github.com/michaelbull/aurelia-typescript-webpack-starter) \* A minimal Aurelia starter kit written in TypeScript and built using webpack.
 
@@ -117,9 +117,9 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Aurelia Tutorials
 
+* [Aurelia-styleguide](https://github.com/behzad888/Aurelia-styleguide) ⭐ 24 | 🐛 0 | 📅 2017-08-22 \* A starting point for Aurelia development teams to provide consistency through best practices.
 * [Aurelia Value Converters](https://jdanyow.github.io/aurelia-converters-sample/)
 * [Aurelia & Framework7 vs. Angular2 & Ionic2](http://www.jujens.eu/posts/en/2016/Mar/15/ionic2-aurelia-f7/)
-* [Aurelia-styleguide](https://github.com/behzad888/Aurelia-styleguide) ⭐ 24 | 🐛 0 | 📅 2017-08-22 \* A starting point for Aurelia development teams to provide consistency through best practices.
 * [Aurelia Tutorial | TutorialsPoint](https://www.tutorialspoint.com/aurelia/index.htm)
 
 ##### Aurelia Podcasts
@@ -162,7 +162,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Material Design
 
-* [**{{** add\_your\_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md) ⭐ 309 | 🐛 0 | 📅 2022-08-18
+* [**{{** add\_your\_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md) ⭐ 310 | 🐛 0 | 📅 2022-08-18
 * [Official Aurelia Material Design (Github)](https://github.com/joelcoxokc/aurelia-interface) ⭐ 85 | 🐛 10 | 📅 2015-07-15
 * [aurelia-material](https://github.com/redpelicans/aurelia-material) ⭐ 49 | 🐛 6 | 🌐 JavaScript | 📅 2016-03-23
 * [aurelia-mdl](https://github.com/genadis/aurelia-mdl) ⭐ 22 | 🐛 0 | 🌐 HTML | 📅 2017-10-03
@@ -170,8 +170,8 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Aurelia Plugins
 
-* [casl-aurelia](https://github.com/stalniy/casl/tree/master/packages/casl-aurelia) ⭐ 7,046 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-23 \* Permissions management plugin which allows to integrate Aurelia and CASL
-* [**{{** add\_your\_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md) ⭐ 309 | 🐛 0 | 📅 2022-08-18
+* [casl-aurelia](https://github.com/stalniy/casl/tree/master/packages/casl-aurelia) ⭐ 7,049 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-24 \* Permissions management plugin which allows to integrate Aurelia and CASL
+* [**{{** add\_your\_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md) ⭐ 310 | 🐛 0 | 📅 2022-08-18
 * [aurelia-auth](https://github.com/paulvanbladel/aurelia-auth) ⭐ 198 | 🐛 30 | 🌐 JavaScript | 📅 2018-05-08 \* Token-based authentication plugin for aurelia
 * [aurelia-ui-framework](https://github.com/adarshpastakia/aurelia-ui-framework) ⚠️ Archived \* A bespoke UI Framework built on Aurelia for desktop business application
 * [aurelia-slickgrid](https://github.com/ghiscoding/aurelia-slickgrid) ⚠️ Archived \* Slickgrid the best javascript datagrid for performance & customization is now available in Aurelia - [Demo](https://ghiscoding.github.io/aurelia-slickgrid/)
@@ -240,7 +240,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Aurelia Custom Element
 
-* [ag-grid-aurelia](https://github.com/ag-grid/ag-grid/tree/master/packages/ag-grid-aurelia) ⭐ 15,560 | 🐛 127 | 🌐 TypeScript | 📅 2026-08-23 \* The Aurelia Component for use with ag-Grid, an advanced data grid/data table - [Demo](https://www.ag-grid.com/best-aurelia-data-grid/)
+* [ag-grid-aurelia](https://github.com/ag-grid/ag-grid/tree/master/packages/ag-grid-aurelia) ⭐ 15,561 | 🐛 128 | 🌐 TypeScript | 📅 2026-08-24 \* The Aurelia Component for use with ag-Grid, an advanced data grid/data table - [Demo](https://www.ag-grid.com/best-aurelia-data-grid/)
 * [aurelia-chart](https://github.com/grofit/aurelia-chart) ⭐ 46 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-04 \* A chart element for aurelia which is powered by chart js using html5 canvas
 * [aurelia-v-grid](https://github.com/aurelia-ui-toolkits/aurelia-v-grid) ⭐ 22 | 🐛 1 | 📅 2017-08-27 \* aurelia-v-grid
 * [aurelia-leaflet](https://github.com/benib/aurelia-leaflet) ⭐ 17 | 🐛 4 | 🌐 JavaScript | 📅 2017-12-20 \* [A Leaflet CustomElement for Aurelia](http://benib.github.io/aurelia-leaflet/)
@@ -255,7 +255,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Aurelia Libraries
 
-* [**{{** add\_your\_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md) ⭐ 309 | 🐛 0 | 📅 2022-08-18
+* [**{{** add\_your\_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md) ⭐ 310 | 🐛 0 | 📅 2022-08-18
 * [aurelia-bundler](https://github.com/aurelia/bundler) ⚠️ Archived \* A library for bundling JavaScript, HTML and CSS for use with SystemJS
 * [pollyfils](https://github.com/aurelia/polyfills) ⭐ 25 | 🐛 19 | 🌐 JavaScript | 📅 2023-01-04 \* The minimal set of polyfills needed to run Aurelia
 * [aurelia-sails-socket-client](https://github.com/Mordred/aurelia-sails-socket-client) ⭐ 21 | 🐛 0 | 🌐 JavaScript | 📅 2017-09-28 \* A simple, restful, message-based wrapper around sails.io client
@@ -281,15 +281,15 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### TypeScript General Resources
 
-* [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) ⭐ 110,634 | 🐛 5,215 | 🌐 Go | 📅 2026-08-24 Official GitHub Repo for TypeScript
-* [DefinitelyTyped Repository (GitHub)](https://github.com/DefinitelyTyped/DefinitelyTyped) ⭐ 51,390 | 🐛 681 | 🌐 TypeScript | 📅 2026-08-23 The repository for high quality TypeScript type definitions.
+* [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) ⭐ 110,650 | 🐛 5,219 | 🌐 Go | 📅 2026-08-24 Official GitHub Repo for TypeScript
+* [DefinitelyTyped Repository (GitHub)](https://github.com/DefinitelyTyped/DefinitelyTyped) ⭐ 51,393 | 🐛 684 | 🌐 TypeScript | 📅 2026-08-24 The repository for high quality TypeScript type definitions.
 * [TypeScript](http://www.typescriptlang.org/) Official Website for TypeScript
 * [REPL](http://www.typescriptlang.org/Playground) Official TypeScript REPL that runs entirely in your browser
 * [TSD](http://definitelytyped.org/tsd) TypeScript Definition manager for DefinitelyTyped
 
 #### Typescript Seed Projects
 
-* [**{{** add\_your\_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md) ⭐ 309 | 🐛 0 | 📅 2022-08-18
+* [**{{** add\_your\_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md) ⭐ 310 | 🐛 0 | 📅 2022-08-18
 
 * [Aurelia Typescript](https://github.com/cmichaelgraham/aurelia-typescript) ⭐ 142 | 🐛 28 | 🌐 JavaScript | 📅 2015-12-06 \* A starter kit for working with the Aurelia TypeScript type definitions by @cmichaelgraham
 
@@ -307,7 +307,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### ES5 General Resources
 
-* [**{{** help\_add\_resources **}}**](https://github.com/behzad888/awesome/edit/master/README.md) ⭐ 309 | 🐛 0 | 📅 2022-08-18
+* [**{{** help\_add\_resources **}}**](https://github.com/behzad888/awesome/edit/master/README.md) ⭐ 310 | 🐛 0 | 📅 2022-08-18
 
 #### ES5 Seed Projects
 
