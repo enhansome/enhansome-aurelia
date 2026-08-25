@@ -281,7 +281,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### TypeScript General Resources
 
-* [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) ⭐ 110,663 | 🐛 5,215 | 🌐 Go | 📅 2026-08-24 Official GitHub Repo for TypeScript
+* [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) ⭐ 110,666 | 🐛 5,215 | 🌐 Go | 📅 2026-08-24 Official GitHub Repo for TypeScript
 * [DefinitelyTyped Repository (GitHub)](https://github.com/DefinitelyTyped/DefinitelyTyped) ⭐ 51,395 | 🐛 686 | 🌐 TypeScript | 📅 2026-08-24 The repository for high quality TypeScript type definitions.
 * [TypeScript](http://www.typescriptlang.org/) Official Website for TypeScript
 * [REPL](http://www.typescriptlang.org/Playground) Official TypeScript REPL that runs entirely in your browser

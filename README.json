@@ -1542,7 +1542,7 @@
                     "last_commit": "2026-08-24T22:58:23Z",
                     "owner": "microsoft",
                     "repo": "TypeScript",
-                    "stars": 110663
+                    "stars": 110666
                   }
                 },
                 {
@@ -1774,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:00:09.598Z",
+    "last_updated": "2026-08-25T06:21:32.752Z",
     "original_repository": "aurelia-contrib/awesome-aurelia",
     "original_repository_id": 49408207,
     "original_repository_sha": "db81f616303f585cd74f8a4758e4825457966cf8",
