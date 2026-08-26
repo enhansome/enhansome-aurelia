@@ -298,10 +298,10 @@
                     "archived": false,
                     "id": 97627474,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T03:08:02Z",
+                    "last_commit": "2026-08-26T00:28:51Z",
                     "owner": "stalniy",
                     "repo": "casl",
-                    "stars": 7050
+                    "stars": 7053
                   }
                 },
                 {
@@ -1212,7 +1212,7 @@
                     "archived": false,
                     "id": 28407613,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T16:17:23Z",
+                    "last_commit": "2026-08-25T17:36:29Z",
                     "owner": "ag-grid",
                     "repo": "ag-grid",
                     "stars": 15562
@@ -1539,10 +1539,10 @@
                     "archived": false,
                     "id": 20929025,
                     "language": "Go",
-                    "last_commit": "2026-08-24T22:58:23Z",
+                    "last_commit": "2026-08-26T01:40:39Z",
                     "owner": "microsoft",
                     "repo": "TypeScript",
-                    "stars": 110666
+                    "stars": 110686
                   }
                 },
                 {
@@ -1554,10 +1554,10 @@
                     "archived": false,
                     "id": 6093316,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T19:16:07Z",
+                    "last_commit": "2026-08-26T02:37:41Z",
                     "owner": "DefinitelyTyped",
                     "repo": "DefinitelyTyped",
-                    "stars": 51395
+                    "stars": 51400
                   }
                 }
               ],
@@ -1774,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:21:32.752Z",
+    "last_updated": "2026-08-26T03:06:25.500Z",
     "original_repository": "aurelia-contrib/awesome-aurelia",
     "original_repository_id": 49408207,
     "original_repository_sha": "db81f616303f585cd74f8a4758e4825457966cf8",
