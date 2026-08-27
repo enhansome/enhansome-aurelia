@@ -301,7 +301,7 @@
                     "last_commit": "2026-08-26T00:28:51Z",
                     "owner": "stalniy",
                     "repo": "casl",
-                    "stars": 7057
+                    "stars": 7056
                   }
                 },
                 {
@@ -1212,7 +1212,7 @@
                     "archived": false,
                     "id": 28407613,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T11:12:09Z",
+                    "last_commit": "2026-08-27T12:04:17Z",
                     "owner": "ag-grid",
                     "repo": "ag-grid",
                     "stars": 15568
@@ -1542,7 +1542,7 @@
                     "last_commit": "2026-08-26T23:49:27Z",
                     "owner": "microsoft",
                     "repo": "TypeScript",
-                    "stars": 110726
+                    "stars": 110728
                   }
                 },
                 {
@@ -1774,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:21:33.823Z",
+    "last_updated": "2026-08-27T12:26:08.627Z",
     "original_repository_info": {
       "archived": false,
       "id": 49408207,

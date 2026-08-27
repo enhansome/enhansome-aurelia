@@ -170,7 +170,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Aurelia Plugins
 
-* [casl-aurelia](https://github.com/stalniy/casl/tree/master/packages/casl-aurelia) ⭐ 7,057 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-26 \* Permissions management plugin which allows to integrate Aurelia and CASL
+* [casl-aurelia](https://github.com/stalniy/casl/tree/master/packages/casl-aurelia) ⭐ 7,056 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-26 \* Permissions management plugin which allows to integrate Aurelia and CASL
 * [**{{** add\_your\_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md) ⭐ 310 | 🐛 0 | 📅 2022-08-18
 * [aurelia-auth](https://github.com/paulvanbladel/aurelia-auth) ⭐ 198 | 🐛 30 | 🌐 JavaScript | 📅 2018-05-08 \* Token-based authentication plugin for aurelia
 * [aurelia-ui-framework](https://github.com/adarshpastakia/aurelia-ui-framework) ⚠️ Archived \* A bespoke UI Framework built on Aurelia for desktop business application
@@ -281,7 +281,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### TypeScript General Resources
 
-* [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) ⭐ 110,726 | 🐛 5,192 | 🌐 Go | 📅 2026-08-26 Official GitHub Repo for TypeScript
+* [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) ⭐ 110,728 | 🐛 5,193 | 🌐 Go | 📅 2026-08-26 Official GitHub Repo for TypeScript
 * [DefinitelyTyped Repository (GitHub)](https://github.com/DefinitelyTyped/DefinitelyTyped) ⭐ 51,411 | 🐛 691 | 🌐 TypeScript | 📅 2026-08-27 The repository for high quality TypeScript type definitions.
 * [TypeScript](http://www.typescriptlang.org/) Official Website for TypeScript
 * [REPL](http://www.typescriptlang.org/Playground) Official TypeScript REPL that runs entirely in your browser
