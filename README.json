@@ -19,8 +19,9 @@
                     "last_commit": "2023-01-27T11:32:58Z",
                     "owner": "aurelia",
                     "repo": "framework",
-                    "stars": 11671
-                  }
+                    "stars": 11672
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 }
               ],
               "description": null,
@@ -42,7 +43,8 @@
                     "owner": "aurelia",
                     "repo": "vscode-extension",
                     "stars": 110
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -57,7 +59,8 @@
                     "owner": "SpoonX",
                     "repo": "aurelia-update",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -72,7 +75,8 @@
                     "owner": "behzad888",
                     "repo": "vscode-aurelia-snippets",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -87,7 +91,8 @@
                     "owner": "charlespockert",
                     "repo": "aurelia-debugger",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -102,7 +107,8 @@
                     "owner": "MeirionHughes",
                     "repo": "aurelia-template-lint",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -117,7 +123,8 @@
                     "owner": "kristianmandrup",
                     "repo": "aurelia-installer",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 }
               ],
               "description": null,
@@ -139,7 +146,8 @@
                     "owner": "aurelia-contrib",
                     "repo": "awesome-aurelia",
                     "stars": 310
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 }
               ],
               "description": null,
@@ -161,7 +169,8 @@
                     "owner": "zewa666",
                     "repo": "generator-aurelia",
                     "stars": 77
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -176,7 +185,8 @@
                     "owner": "kristianmandrup",
                     "repo": "generator-aurelia-ts",
                     "stars": 34
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 }
               ],
               "description": null,
@@ -198,7 +208,8 @@
                     "owner": "behzad888",
                     "repo": "Aurelia-styleguide",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 }
               ],
               "description": null,
@@ -220,7 +231,8 @@
                     "owner": "aurelia-contrib",
                     "repo": "awesome-aurelia",
                     "stars": 310
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -235,7 +247,8 @@
                     "owner": "joelcoxokc",
                     "repo": "aurelia-interface",
                     "stars": 85
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -250,7 +263,8 @@
                     "owner": "redpelicans",
                     "repo": "aurelia-material",
                     "stars": 49
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -265,7 +279,8 @@
                     "owner": "genadis",
                     "repo": "aurelia-mdl",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -280,7 +295,8 @@
                     "owner": "arabsight",
                     "repo": "aurelia-mdl-plugin",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 }
               ],
               "description": null,
@@ -301,8 +317,9 @@
                     "last_commit": "2026-08-26T00:28:51Z",
                     "owner": "stalniy",
                     "repo": "casl",
-                    "stars": 7056
-                  }
+                    "stars": 7061
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -317,7 +334,8 @@
                     "owner": "aurelia-contrib",
                     "repo": "awesome-aurelia",
                     "stars": 310
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -332,7 +350,8 @@
                     "owner": "paulvanbladel",
                     "repo": "aurelia-auth",
                     "stars": 198
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -347,7 +366,8 @@
                     "owner": "adarshpastakia",
                     "repo": "aurelia-ui-framework",
                     "stars": 147
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -362,7 +382,8 @@
                     "owner": "ghiscoding",
                     "repo": "aurelia-slickgrid",
                     "stars": 133
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -377,7 +398,8 @@
                     "owner": "aurelia-ui-toolkits",
                     "repo": "aurelia-kendoui-bridge",
                     "stars": 117
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -392,7 +414,8 @@
                     "owner": "Vheissu",
                     "repo": "aurelia-configuration",
                     "stars": 100
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -407,7 +430,8 @@
                     "owner": "aurelia",
                     "repo": "i18n",
                     "stars": 92
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -422,7 +446,8 @@
                     "owner": "aurelia",
                     "repo": "ui-virtualization",
                     "stars": 89
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -437,7 +462,8 @@
                     "owner": "aurelia",
                     "repo": "webpack-plugin",
                     "stars": 88
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -452,7 +478,8 @@
                     "owner": "SpoonX",
                     "repo": "aurelia-authentication",
                     "stars": 88
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -467,7 +494,8 @@
                     "owner": "SpoonX",
                     "repo": "aurelia-orm",
                     "stars": 76
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -482,7 +510,8 @@
                     "owner": "tfrydrychewicz",
                     "repo": "aurelia-flux",
                     "stars": 74
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -497,7 +526,8 @@
                     "owner": "SpoonX",
                     "repo": "aurelia-api",
                     "stars": 72
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -512,7 +542,8 @@
                     "owner": "jdanyow",
                     "repo": "aurelia-breeze",
                     "stars": 63
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -527,7 +558,8 @@
                     "owner": "formio",
                     "repo": "aurelia-formio",
                     "stars": 45
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -542,7 +574,8 @@
                     "owner": "ghiscoding",
                     "repo": "Aurelia-Bootstrap-Plugins",
                     "stars": 45
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -557,7 +590,8 @@
                     "owner": "charlespockert",
                     "repo": "aurelia-bs-grid",
                     "stars": 43
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -572,7 +606,8 @@
                     "owner": "Vheissu",
                     "repo": "aurelia-google-maps",
                     "stars": 43
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -587,7 +622,8 @@
                     "owner": "SpoonX",
                     "repo": "aurelia-notification",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -602,7 +638,8 @@
                     "owner": "michaelmalonenz",
                     "repo": "aurelia-dragula",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -617,7 +654,8 @@
                     "owner": "miguelzakharia",
                     "repo": "aurelia-google-analytics",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -632,7 +670,8 @@
                     "owner": "jdanyow",
                     "repo": "aurelia-computed",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -647,7 +686,8 @@
                     "owner": "bryanrsmith",
                     "repo": "aurelia-react-loader",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -662,7 +702,8 @@
                     "owner": "PulsarBlow",
                     "repo": "aurelia-firebase",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -677,7 +718,8 @@
                     "owner": "aurelia-contrib",
                     "repo": "aurelia-knockout",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -692,7 +734,8 @@
                     "owner": "aurelia",
                     "repo": "validatejs",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -707,7 +750,8 @@
                     "owner": "Mordred",
                     "repo": "aurelia-sails-socket-client",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -722,7 +766,8 @@
                     "owner": "bnavetta",
                     "repo": "aurelia-polymer",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -737,7 +782,8 @@
                     "owner": "MarcScheib",
                     "repo": "aurelia-notify",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -752,7 +798,8 @@
                     "owner": "kristianmandrup",
                     "repo": "aurelia-rethink-bindtable",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -767,7 +814,8 @@
                     "owner": "MeirionHughes",
                     "repo": "aurelia-resize",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -782,7 +830,8 @@
                     "owner": "corneliutusnea",
                     "repo": "aurelia-grid",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -797,7 +846,8 @@
                     "owner": "jbockle",
                     "repo": "aurelia-json-schema-form",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -812,7 +862,8 @@
                     "owner": "SpoonX",
                     "repo": "aurelia-charts",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -827,7 +878,8 @@
                     "owner": "michaelbull",
                     "repo": "aurelia-swipeout",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -842,7 +894,8 @@
                     "owner": "pinterweb",
                     "repo": "aurelia-fontawesome",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -857,7 +910,8 @@
                     "owner": "bryanrsmith",
                     "repo": "aurelia-binding-loader",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -872,7 +926,8 @@
                     "owner": "michaelbull",
                     "repo": "aurelia-split-pane",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -887,7 +942,8 @@
                     "owner": "SpoonX",
                     "repo": "aurelia-view-manager",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -902,7 +958,8 @@
                     "owner": "tiagogm",
                     "repo": "aurelia-tags-input",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -917,7 +974,8 @@
                     "owner": "kisssdev",
                     "repo": "aurelia-kis-oidc",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -932,7 +990,8 @@
                     "owner": "avrahamcool",
                     "repo": "aurelia-long-click-event",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -947,7 +1006,8 @@
                     "owner": "SpoonX",
                     "repo": "aurelia-filter",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -962,7 +1022,8 @@
                     "owner": "niieani",
                     "repo": "aurelia-cycle",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -977,7 +1038,8 @@
                     "owner": "MarcScheib",
                     "repo": "aurelia-environment",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -992,7 +1054,8 @@
                     "owner": "Novatrox",
                     "repo": "aurelia-keyboard-plugin",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -1007,7 +1070,8 @@
                     "owner": "ceoaliongroo",
                     "repo": "aurelia-leaflet",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -1022,7 +1086,8 @@
                     "owner": "genadis",
                     "repo": "aurelia-yt-player",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -1037,7 +1102,8 @@
                     "owner": "abalmus",
                     "repo": "aurelia-ace-editor",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -1052,7 +1118,8 @@
                     "owner": "behzad888",
                     "repo": "aurelia-view-pipeline",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -1067,7 +1134,8 @@
                     "owner": "drive",
                     "repo": "aurelia-routed-footer",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -1082,7 +1150,8 @@
                     "owner": "Treacherous",
                     "repo": "treacherous-aurelia",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -1097,7 +1166,8 @@
                     "owner": "Tseberechts",
                     "repo": "aurelia-place-picker",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -1112,7 +1182,8 @@
                     "owner": "manuel-guilbault",
                     "repo": "aurelia-telemetry",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 }
               ],
               "description": null,
@@ -1134,7 +1205,8 @@
                     "owner": "SpoonX",
                     "repo": "aurelia-datatable",
                     "stars": 32
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -1149,7 +1221,8 @@
                     "owner": "stamp-web",
                     "repo": "stamp-web-aurelia",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -1164,7 +1237,8 @@
                     "owner": "Vheissu",
                     "repo": "aurelia-tabs",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -1179,7 +1253,8 @@
                     "owner": "gooy",
                     "repo": "aurelia-animator-tinyanimate",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -1194,7 +1269,8 @@
                     "owner": "sukobuto",
                     "repo": "aurelia-tinymce-sample",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 }
               ],
               "description": null,
@@ -1212,11 +1288,12 @@
                     "archived": false,
                     "id": 28407613,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T12:04:17Z",
+                    "last_commit": "2026-08-28T13:54:48Z",
                     "owner": "ag-grid",
                     "repo": "ag-grid",
-                    "stars": 15568
-                  }
+                    "stars": 15570
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -1231,7 +1308,8 @@
                     "owner": "grofit",
                     "repo": "aurelia-chart",
                     "stars": 46
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -1246,7 +1324,8 @@
                     "owner": "aurelia-ui-toolkits",
                     "repo": "aurelia-v-grid",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -1261,7 +1340,8 @@
                     "owner": "benib",
                     "repo": "aurelia-leaflet",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 }
               ],
               "description": null,
@@ -1283,7 +1363,8 @@
                     "owner": "paulvanbladel",
                     "repo": "aurelia-identityserver-aspnetcore",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -1298,7 +1379,8 @@
                     "owner": "doktordirk",
                     "repo": "aurelia-authentication-loopback-sample",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -1313,7 +1395,8 @@
                     "owner": "stalniy",
                     "repo": "casl-aurelia-example",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 }
               ],
               "description": null,
@@ -1335,7 +1418,8 @@
                     "owner": "aurelia-contrib",
                     "repo": "awesome-aurelia",
                     "stars": 310
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -1350,7 +1434,8 @@
                     "owner": "aurelia",
                     "repo": "bundler",
                     "stars": 36
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -1365,7 +1450,8 @@
                     "owner": "aurelia",
                     "repo": "polyfills",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -1380,7 +1466,8 @@
                     "owner": "Mordred",
                     "repo": "aurelia-sails-socket-client",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 }
               ],
               "description": null,
@@ -1402,7 +1489,8 @@
                     "owner": "jdanyow",
                     "repo": "aurelia-breeze-northwind",
                     "stars": 90
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -1417,7 +1505,8 @@
                     "owner": "jdanyow",
                     "repo": "aurelia-solitaire",
                     "stars": 73
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -1432,7 +1521,8 @@
                     "owner": "michaelbull",
                     "repo": "aurelia-hacker-news",
                     "stars": 62
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -1447,7 +1537,8 @@
                     "owner": "discosultan",
                     "repo": "aurelia-minesweeper",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -1462,7 +1553,8 @@
                     "owner": "jimschubert",
                     "repo": "aurelia-webapi-example",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "children": [
@@ -1479,7 +1571,8 @@
                         "owner": "jimschubert",
                         "repo": "electron-aurelia-example",
                         "stars": 35
-                      }
+                      },
+                      "first_seen": "2026-08-28T13:55:44.833Z"
                     },
                     {
                       "node_type": "item",
@@ -1494,7 +1587,8 @@
                         "owner": "timfish",
                         "repo": "aurelia-electron-webpack",
                         "stars": 28
-                      }
+                      },
+                      "first_seen": "2026-08-28T13:55:44.833Z"
                     },
                     {
                       "node_type": "item",
@@ -1509,7 +1603,8 @@
                         "owner": "seesharper",
                         "repo": "AureliaElectronHappiness",
                         "stars": 7
-                      }
+                      },
+                      "first_seen": "2026-08-28T13:55:44.833Z"
                     }
                   ],
                   "description": null,
@@ -1539,11 +1634,12 @@
                     "archived": false,
                     "id": 20929025,
                     "language": "Go",
-                    "last_commit": "2026-08-26T23:49:27Z",
+                    "last_commit": "2026-08-27T23:48:59Z",
                     "owner": "microsoft",
                     "repo": "TypeScript",
-                    "stars": 110728
-                  }
+                    "stars": 110744
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -1554,11 +1650,12 @@
                     "archived": false,
                     "id": 6093316,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T10:37:41Z",
+                    "last_commit": "2026-08-28T13:13:28Z",
                     "owner": "DefinitelyTyped",
                     "repo": "DefinitelyTyped",
-                    "stars": 51411
-                  }
+                    "stars": 51412
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 }
               ],
               "description": null,
@@ -1580,7 +1677,8 @@
                     "owner": "aurelia-contrib",
                     "repo": "awesome-aurelia",
                     "stars": 310
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -1595,7 +1693,8 @@
                     "owner": "cmichaelgraham",
                     "repo": "aurelia-typescript",
                     "stars": 142
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -1610,7 +1709,8 @@
                     "owner": "Enrapt",
                     "repo": "aurelia-skeleton-navigation-gulp-typescript",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -1625,7 +1725,8 @@
                     "owner": "cmichaelgraham",
                     "repo": "aurelia-axel",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -1640,7 +1741,8 @@
                     "owner": "cmichaelgraham",
                     "repo": "aurelia-axel-northwind",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 },
                 {
                   "node_type": "item",
@@ -1655,7 +1757,8 @@
                     "owner": "PraveenGandhi",
                     "repo": "aurelia-chrome-extension-seed",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 }
               ],
               "description": null,
@@ -1684,7 +1787,8 @@
                     "owner": "aurelia-contrib",
                     "repo": "awesome-aurelia",
                     "stars": 310
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 }
               ],
               "description": null,
@@ -1706,7 +1810,8 @@
                     "owner": "ahmedshuhel",
                     "repo": "nav-app-es5",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 }
               ],
               "description": null,
@@ -1728,7 +1833,8 @@
                     "owner": "axwalker",
                     "repo": "aurelia-observer-patterns",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 }
               ],
               "description": null,
@@ -1757,7 +1863,8 @@
                     "owner": "TsumiNa",
                     "repo": "meteor-aurelia",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
                 }
               ],
               "description": null,
@@ -1774,7 +1881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:26:08.627Z",
+    "last_updated": "2026-08-28T13:55:44.833Z",
     "original_repository_info": {
       "archived": false,
       "id": 49408207,
