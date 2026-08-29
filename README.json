@@ -14,12 +14,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Aurelia 1 framework entry point, bringing together all the required sub-modules of Aurelia.",
+                    "homepage": null,
                     "id": 27835638,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-01-27T11:32:58Z",
+                    "open_issues": 60,
                     "owner": "aurelia",
                     "repo": "framework",
-                    "stars": 11672
+                    "stars": 11672,
+                    "topics": [
+                      "aurelia-framework",
+                      "cross-platform",
+                      "framework",
+                      "html",
+                      "javascript",
+                      "mobile",
+                      "single-page-applications",
+                      "spa",
+                      "typescript",
+                      "web"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 }
@@ -37,12 +53,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An extension for the VS Code editor that provides Intellisense capabilities to your Aurelia project.",
+                    "homepage": null,
                     "id": 69061179,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-03-06T23:49:37Z",
+                    "open_issues": 42,
                     "owner": "aurelia",
                     "repo": "vscode-extension",
-                    "stars": 110
+                    "stars": 110,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -53,12 +74,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Update all aurelia dependencies easily.",
+                    "homepage": null,
                     "id": 45993005,
                     "language": "JavaScript",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2020-11-25T12:48:26Z",
+                    "open_issues": 0,
                     "owner": "SpoonX",
                     "repo": "aurelia-update",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -69,12 +95,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "vscode aurelia snippets",
+                    "homepage": "https://marketplace.visualstudio.com/items?itemName=behzad88.aurelia",
                     "id": 56848530,
                     "language": null,
+                    "license": null,
                     "last_commit": "2019-06-07T09:12:29Z",
+                    "open_issues": 0,
                     "owner": "behzad888",
                     "repo": "vscode-aurelia-snippets",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -85,12 +116,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Visual debug tool for Aurelia",
+                    "homepage": null,
                     "id": 43682895,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2016-01-17T23:43:46Z",
+                    "open_issues": 3,
                     "owner": "charlespockert",
                     "repo": "aurelia-debugger",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -101,12 +137,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Sanity check of Aurelia-flavor template HTML ",
+                    "homepage": null,
                     "id": 123905892,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2018-12-12T23:18:35Z",
+                    "open_issues": 1,
                     "owner": "MeirionHughes",
                     "repo": "aurelia-template-lint",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -117,12 +158,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CLI for managing Aurelia components and vendor libs",
+                    "homepage": null,
                     "id": 64548635,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2017-04-01T08:53:30Z",
+                    "open_issues": 1,
                     "owner": "kristianmandrup",
                     "repo": "aurelia-installer",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 }
@@ -140,12 +186,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A curated list of amazingly awesome Aurelia libraries.",
+                    "homepage": null,
                     "id": 49408207,
                     "language": null,
+                    "license": null,
                     "last_commit": "2022-08-18T14:06:13Z",
+                    "open_issues": 0,
                     "owner": "aurelia-contrib",
                     "repo": "awesome-aurelia",
-                    "stars": 310
+                    "stars": 310,
+                    "topics": [
+                      "awesome",
+                      "awesome-list",
+                      "list"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 }
@@ -163,12 +218,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Yeoman generator for the JavaScript Framework Aurelia",
+                    "homepage": null,
                     "id": 29876363,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2016-11-03T15:04:54Z",
+                    "open_issues": 0,
                     "owner": "zewa666",
                     "repo": "generator-aurelia",
-                    "stars": 77
+                    "stars": 77,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -179,12 +239,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Turbo Start generator for Aurelia apps",
+                    "homepage": null,
                     "id": 35595903,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2022-07-22T12:04:18Z",
+                    "open_issues": 5,
                     "owner": "kristianmandrup",
                     "repo": "generator-aurelia-ts",
-                    "stars": 34
+                    "stars": 34,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 }
@@ -202,12 +267,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Aurelia Style Guide: A starting point for Aurelia development teams to provide consistency through best practices. http://aurelia.io",
+                    "homepage": null,
                     "id": 45098024,
                     "language": null,
+                    "license": null,
                     "last_commit": "2017-08-22T07:12:06Z",
+                    "open_issues": 0,
                     "owner": "behzad888",
                     "repo": "Aurelia-styleguide",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": [
+                      "aurelia",
+                      "styleguide"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 }
@@ -225,12 +298,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A curated list of amazingly awesome Aurelia libraries.",
+                    "homepage": null,
                     "id": 49408207,
                     "language": null,
+                    "license": null,
                     "last_commit": "2022-08-18T14:06:13Z",
+                    "open_issues": 0,
                     "owner": "aurelia-contrib",
                     "repo": "awesome-aurelia",
-                    "stars": 310
+                    "stars": 310,
+                    "topics": [
+                      "awesome",
+                      "awesome-list",
+                      "list"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -241,12 +323,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 30672862,
                     "language": null,
+                    "license": null,
                     "last_commit": "2015-07-15T01:57:17Z",
+                    "open_issues": 10,
                     "owner": "joelcoxokc",
                     "repo": "aurelia-interface",
-                    "stars": 85
+                    "stars": 85,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -257,12 +344,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Material design for Aurelia",
+                    "homepage": null,
                     "id": 39200997,
                     "language": "JavaScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2016-03-23T21:12:40Z",
+                    "open_issues": 6,
                     "owner": "redpelicans",
                     "repo": "aurelia-material",
-                    "stars": 49
+                    "stars": 49,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -273,12 +365,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Aurelia plugin for Material Design Lite",
+                    "homepage": null,
                     "id": 45981885,
                     "language": "HTML",
+                    "license": "Apache-2.0",
                     "last_commit": "2017-10-03T18:27:01Z",
+                    "open_issues": 0,
                     "owner": "genadis",
                     "repo": "aurelia-mdl",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -289,12 +386,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Material Design Lite plugin for Aurelia.",
+                    "homepage": null,
                     "id": 61501420,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2022-03-02T09:55:44Z",
+                    "open_issues": 8,
                     "owner": "arabsight",
                     "repo": "aurelia-mdl-plugin",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": [
+                      "aurelia",
+                      "aurelia-plugins",
+                      "material-design",
+                      "mdl"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 }
@@ -312,12 +419,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access",
+                    "homepage": "https://casl.js.org/",
                     "id": 97627474,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-26T00:28:51Z",
+                    "open_issues": 14,
                     "owner": "stalniy",
                     "repo": "casl",
-                    "stars": 7061
+                    "stars": 7063,
+                    "topics": [
+                      "acl",
+                      "authorization",
+                      "cancan",
+                      "casl",
+                      "isomorphic-javascript",
+                      "permissions"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -328,12 +447,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A curated list of amazingly awesome Aurelia libraries.",
+                    "homepage": null,
                     "id": 49408207,
                     "language": null,
+                    "license": null,
                     "last_commit": "2022-08-18T14:06:13Z",
+                    "open_issues": 0,
                     "owner": "aurelia-contrib",
                     "repo": "awesome-aurelia",
-                    "stars": 310
+                    "stars": 310,
+                    "topics": [
+                      "awesome",
+                      "awesome-list",
+                      "list"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -344,12 +472,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":key: Authentication plugin for aurelia",
+                    "homepage": null,
                     "id": 38101769,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2018-05-08T11:03:12Z",
+                    "open_issues": 30,
                     "owner": "paulvanbladel",
                     "repo": "aurelia-auth",
-                    "stars": 198
+                    "stars": 198,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -360,12 +493,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A bespoke UI Framework built on Aurelia for desktop business application",
+                    "homepage": "https://adarshpastakia.github.io/auf-demo-v4/",
                     "id": 76080826,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2022-07-20T14:35:11Z",
+                    "open_issues": 89,
                     "owner": "adarshpastakia",
                     "repo": "aurelia-ui-framework",
-                    "stars": 147
+                    "stars": 147,
+                    "topics": [
+                      "aurelia",
+                      "ui-framework"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -376,12 +517,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Aurelia-Slickgrid is a wrapper of the lightning fast & customizable SlickGrid datagrid, it also includes multiple Styling Themes",
+                    "homepage": "https://ghiscoding.github.io/aurelia-slickgrid",
                     "id": 78310416,
                     "language": "TypeScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-05-22T17:20:44Z",
+                    "open_issues": 0,
                     "owner": "ghiscoding",
                     "repo": "aurelia-slickgrid",
-                    "stars": 133
+                    "stars": 133,
+                    "topics": [
+                      "aurelia",
+                      "bootstrap",
+                      "bootstrap4",
+                      "bootstrap5",
+                      "data",
+                      "datagrid",
+                      "datatable",
+                      "graphql",
+                      "grid",
+                      "odata",
+                      "slickgrid",
+                      "treeview",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -392,12 +552,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 44544444,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2021-06-09T12:40:34Z",
+                    "open_issues": 71,
                     "owner": "aurelia-ui-toolkits",
                     "repo": "aurelia-kendoui-bridge",
-                    "stars": 117
+                    "stars": 117,
+                    "topics": [
+                      "aurelia",
+                      "bridge",
+                      "kendo",
+                      "kendo-ui"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -408,12 +578,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Smart configuration for your Aurelia applications.",
+                    "homepage": null,
                     "id": 41735304,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2021-07-14T00:41:01Z",
+                    "open_issues": 10,
                     "owner": "Vheissu",
                     "repo": "aurelia-configuration",
-                    "stars": 100
+                    "stars": 100,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -424,12 +599,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A plugin that provides i18n support.",
+                    "homepage": null,
                     "id": 38144492,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-03-10T09:45:54Z",
+                    "open_issues": 25,
                     "owner": "aurelia",
                     "repo": "i18n",
-                    "stars": 92
+                    "stars": 92,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -440,12 +620,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A plugin that provides a virtualized repeater and other virtualization services.",
+                    "homepage": null,
                     "id": 38145064,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-03-15T00:05:35Z",
+                    "open_issues": 21,
                     "owner": "aurelia",
                     "repo": "ui-virtualization",
-                    "stars": 89
+                    "stars": 89,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -456,12 +641,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A plugin for webpack that enables bundling Aurelia applications.",
+                    "homepage": null,
                     "id": 51777407,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-07-07T23:25:56Z",
+                    "open_issues": 27,
                     "owner": "aurelia",
                     "repo": "webpack-plugin",
-                    "stars": 88
+                    "stars": 88,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -472,12 +662,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Authentication plugin for aurelia.",
+                    "homepage": "http://aurelia-authentication.spoonx.org",
                     "id": 48221197,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-11-25T12:38:53Z",
+                    "open_issues": 0,
                     "owner": "SpoonX",
                     "repo": "aurelia-authentication",
-                    "stars": 88
+                    "stars": 88,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -488,12 +683,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Makes working with entities and calling your Rest API simple.",
+                    "homepage": "http://aurelia-orm.spoonx.org",
                     "id": 46722289,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-11-25T12:40:00Z",
+                    "open_issues": 0,
                     "owner": "SpoonX",
                     "repo": "aurelia-orm",
-                    "stars": 76
+                    "stars": 76,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -504,12 +704,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Flux dispatcher plugin for Aurelia",
+                    "homepage": null,
                     "id": 36606314,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2016-04-19T21:32:34Z",
+                    "open_issues": 11,
                     "owner": "tfrydrychewicz",
                     "repo": "aurelia-flux",
-                    "stars": 74
+                    "stars": 74,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -520,12 +725,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A simple convenience wrapper around aurelia-fetch-client",
+                    "homepage": "http://aurelia-api.spoonx.org",
                     "id": 46728795,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-11-25T12:42:14Z",
+                    "open_issues": 0,
                     "owner": "SpoonX",
                     "repo": "aurelia-api",
-                    "stars": 72
+                    "stars": 72,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -536,12 +746,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Everything you need to use Breeze with Aurelia",
+                    "homepage": null,
                     "id": 29428034,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-01-10T22:16:27Z",
+                    "open_issues": 13,
                     "owner": "jdanyow",
                     "repo": "aurelia-breeze",
-                    "stars": 63
+                    "stars": 63,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -552,12 +767,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Form.io JSON Forms and Form Builder for Aurelia",
+                    "homepage": "https://formio.github.io/aurelia-formio/",
                     "id": 133398027,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-04-27T13:47:54Z",
+                    "open_issues": 2,
                     "owner": "formio",
                     "repo": "aurelia-formio",
-                    "stars": 45
+                    "stars": 45,
+                    "topics": [
+                      "aurelia",
+                      "form-builder",
+                      "forms",
+                      "json-forms"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -568,12 +793,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Aurelia-Bootstrap-Plugins are Custom Elements to bridge with a set of 3rd party Bootstrap addons",
+                    "homepage": "https://ghiscoding.github.io/Aurelia-Bootstrap-Plugins",
                     "id": 83002237,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-06-06T21:55:19Z",
+                    "open_issues": 6,
                     "owner": "ghiscoding",
                     "repo": "Aurelia-Bootstrap-Plugins",
-                    "stars": 45
+                    "stars": 45,
+                    "topics": [
+                      "aurelia",
+                      "aurelia-bootstrap-plugin",
+                      "bootstrap",
+                      "bootstrap-select",
+                      "datetime-picker",
+                      "slickgrid",
+                      "tags-input",
+                      "typeahead"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -584,12 +823,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Aurelia and Bootstrap powered datagrid control",
+                    "homepage": null,
                     "id": 38398800,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2015-12-22T10:52:43Z",
+                    "open_issues": 31,
                     "owner": "charlespockert",
                     "repo": "aurelia-bs-grid",
-                    "stars": 43
+                    "stars": 43,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -600,12 +844,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A highly configurable custom element for use in your Aurelia applications for inserting Google Maps into your application.",
+                    "homepage": null,
                     "id": 42177889,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-07-20T06:54:47Z",
+                    "open_issues": 6,
                     "owner": "Vheissu",
                     "repo": "aurelia-google-maps",
-                    "stars": 43
+                    "stars": 43,
+                    "topics": [
+                      "aurelia-applications",
+                      "aurelia-cli",
+                      "aurelia-plugins",
+                      "google",
+                      "google-maps"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -616,12 +871,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A simple notification service utilizing humane.js",
+                    "homepage": null,
                     "id": 46785732,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-11-25T12:45:53Z",
+                    "open_issues": 0,
                     "owner": "SpoonX",
                     "repo": "aurelia-notification",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -632,12 +892,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An ES2015 port of the Dragula library, targeted at the Aurelia Framework",
+                    "homepage": null,
                     "id": 51579124,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-10-16T15:52:45Z",
+                    "open_issues": 11,
                     "owner": "michaelmalonenz",
                     "repo": "aurelia-dragula",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -648,12 +913,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Aurelia.io plugin that adds Google Analytics page tracking to your project.",
+                    "homepage": null,
                     "id": 45218947,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-04-28T14:56:22Z",
+                    "open_issues": 7,
                     "owner": "miguelzakharia",
                     "repo": "aurelia-google-analytics",
-                    "stars": 28
+                    "stars": 28,
+                    "topics": [
+                      "analytics",
+                      "aurelia",
+                      "aurelia-plugins",
+                      "google-analytics",
+                      "tracking"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -664,12 +940,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A plugin for Aurelia to observe computed properties without dirty-checking",
+                    "homepage": null,
                     "id": 30511991,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2016-07-16T17:03:34Z",
+                    "open_issues": 1,
                     "owner": "jdanyow",
                     "repo": "aurelia-computed",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -680,12 +961,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Load React components directly from Aurelia views",
+                    "homepage": null,
                     "id": 53107213,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2018-10-12T12:36:13Z",
+                    "open_issues": 1,
                     "owner": "bryanrsmith",
                     "repo": "aurelia-react-loader",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -696,12 +982,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " 🔥 A Firebase plugin for Aurelia",
+                    "homepage": "https://aureliaonfire.azurewebsites.net",
                     "id": 44418889,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2016-07-05T20:12:34Z",
+                    "open_issues": 6,
                     "owner": "PulsarBlow",
                     "repo": "aurelia-firebase",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": [
+                      "aurelia",
+                      "aurelia-firebase",
+                      "firebase-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -712,12 +1007,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Adds support for Knockout binding syntax to make transition from Durandal and Knockout to Aurelia simpler.",
+                    "homepage": null,
                     "id": 57987700,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-02-11T10:30:41Z",
+                    "open_issues": 4,
                     "owner": "aurelia-contrib",
                     "repo": "aurelia-knockout",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": [
+                      "aurelia",
+                      "aurelia-plugins",
+                      "composition",
+                      "knockout",
+                      "migration"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -728,12 +1034,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Enables expressive validation using decorators and/or a fluent API.",
+                    "homepage": null,
                     "id": 57916799,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2016-08-28T16:47:19Z",
+                    "open_issues": 0,
                     "owner": "aurelia",
                     "repo": "validatejs",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -744,12 +1055,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A simple, restful, message-based wrapper around sails.io client.",
+                    "homepage": null,
                     "id": 34135582,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-09-28T07:31:06Z",
+                    "open_issues": 0,
                     "owner": "Mordred",
                     "repo": "aurelia-sails-socket-client",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -760,12 +1076,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Aurelia plugin to support Polymer",
+                    "homepage": null,
                     "id": 40501327,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-02-25T05:29:48Z",
+                    "open_issues": 11,
                     "owner": "bnavetta",
                     "repo": "aurelia-polymer",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -776,12 +1097,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A notification plugin for Aurelia.",
+                    "homepage": null,
                     "id": 46821698,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-11-16T10:55:33Z",
+                    "open_issues": 2,
                     "owner": "MarcScheib",
                     "repo": "aurelia-notify",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": [
+                      "aurelia",
+                      "notifications",
+                      "notifications-plugin",
+                      "notify",
+                      "plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -792,12 +1124,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Aurelia bind table integration for RethinkDB via Socket.io",
+                    "homepage": null,
                     "id": 31852431,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2017-04-01T08:53:52Z",
+                    "open_issues": 2,
                     "owner": "kristianmandrup",
                     "repo": "aurelia-rethink-bindtable",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -808,12 +1145,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "aurelia plugin to observe DOM-element resize events ",
+                    "homepage": null,
                     "id": 53856135,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2019-02-05T11:19:22Z",
+                    "open_issues": 4,
                     "owner": "MeirionHughes",
                     "repo": "aurelia-resize",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -824,12 +1166,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A fresh Aurelia Grid written in TypeScript based charlespockert's Aurelia BS Grid",
+                    "homepage": null,
                     "id": 50221867,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2016-10-11T07:01:55Z",
+                    "open_issues": 7,
                     "owner": "corneliutusnea",
                     "repo": "aurelia-grid",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -840,12 +1187,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Create Aurelia forms based on your JSON schema!",
+                    "homepage": null,
                     "id": 138301543,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2018-11-30T16:16:35Z",
+                    "open_issues": 0,
                     "owner": "jbockle",
                     "repo": "aurelia-json-schema-form",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -856,12 +1208,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Graphs plugin for aurelia. Supports all libraries.",
+                    "homepage": null,
                     "id": 64124698,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-11-25T12:47:49Z",
+                    "open_issues": 0,
                     "owner": "SpoonX",
                     "repo": "aurelia-charts",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -872,12 +1229,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A custom element for iOS style swipeout actions, backed by Hammer.js",
+                    "homepage": "https://michaelbull.github.io/aurelia-swipeout/",
                     "id": 101450355,
                     "language": "TypeScript",
+                    "license": "ISC",
                     "last_commit": "2017-11-26T03:39:41Z",
+                    "open_issues": 0,
                     "owner": "michaelbull",
                     "repo": "aurelia-swipeout",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": [
+                      "aurelia",
+                      "custom",
+                      "element",
+                      "ios",
+                      "scss",
+                      "swipe",
+                      "swipeout",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -888,12 +1259,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Font Awesome 5 Aurelia component",
+                    "homepage": null,
                     "id": 150025059,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-01-06T01:35:52Z",
+                    "open_issues": 17,
                     "owner": "pinterweb",
                     "repo": "aurelia-fontawesome",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": [
+                      "aurelia",
+                      "aurelia-plugins",
+                      "fontawesome",
+                      "frontend",
+                      "icons",
+                      "javascript",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -904,12 +1288,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Aurelia loader for using any module directly from a view template",
+                    "homepage": null,
                     "id": 53185790,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2016-03-23T03:39:19Z",
+                    "open_issues": 3,
                     "owner": "bryanrsmith",
                     "repo": "aurelia-binding-loader",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -920,12 +1309,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A custom element for resizable split panes.",
+                    "homepage": "https://michaelbull.github.io/aurelia-split-pane/",
                     "id": 121971978,
                     "language": "TypeScript",
+                    "license": "ISC",
                     "last_commit": "2024-05-24T06:33:39Z",
+                    "open_issues": 1,
                     "owner": "michaelbull",
                     "repo": "aurelia-split-pane",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": [
+                      "aurelia",
+                      "container",
+                      "custom",
+                      "element",
+                      "pane",
+                      "panel",
+                      "resizable",
+                      "split"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -936,12 +1339,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A view manager for aurelia plugins. Add support for overriding views, and multiple frameworks.",
+                    "homepage": null,
                     "id": 59637790,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-11-25T12:48:07Z",
+                    "open_issues": 0,
                     "owner": "SpoonX",
                     "repo": "aurelia-view-manager",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -952,12 +1360,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A tag input plugin built in aurelia",
+                    "homepage": null,
                     "id": 74665563,
                     "language": "JavaScript",
+                    "license": "CC0-1.0",
                     "last_commit": "2017-10-30T12:03:44Z",
+                    "open_issues": 0,
                     "owner": "tiagogm",
                     "repo": "aurelia-tags-input",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": [
+                      "aurelia",
+                      "aurelia-plugins",
+                      "tags",
+                      "tags-input"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -968,12 +1386,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "An Aurelia plugin that encapsulates oidc-client-js library.",
+                    "homepage": null,
                     "id": 189098623,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-01-10T00:18:32Z",
+                    "open_issues": 0,
                     "owner": "kisssdev",
                     "repo": "aurelia-kis-oidc",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -984,12 +1407,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "aurelia plugin for long-click event",
+                    "homepage": null,
                     "id": 168874715,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-03-04T04:09:47Z",
+                    "open_issues": 19,
                     "owner": "avrahamcool",
                     "repo": "aurelia-long-click-event",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1000,12 +1428,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A plugin for aurelia to populate search/filter criteria. Works well with aurelia-orm.",
+                    "homepage": null,
                     "id": 61876337,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-11-25T12:48:00Z",
+                    "open_issues": 0,
                     "owner": "SpoonX",
                     "repo": "aurelia-filter",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1016,12 +1449,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Aurelia plugin that enables the use of Cycle.js inside of Aurelia",
+                    "homepage": null,
                     "id": 53007968,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2023-12-15T14:29:01Z",
+                    "open_issues": 1,
                     "owner": "niieani",
                     "repo": "aurelia-cycle",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1032,12 +1470,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "aurelia-environment provides simple .env parsing and loading",
+                    "homepage": null,
                     "id": 52174633,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-08-03T09:48:13Z",
+                    "open_issues": 0,
                     "owner": "MarcScheib",
                     "repo": "aurelia-environment",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": [
+                      "aurelia",
+                      "aurelia-environment",
+                      "env",
+                      "environment",
+                      "environment-variables",
+                      "jspm",
+                      "plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1048,12 +1499,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Simple keyboard plugin for aurelia",
+                    "homepage": null,
                     "id": 56488278,
                     "language": "JavaScript",
+                    "license": "CC0-1.0",
                     "last_commit": "2016-05-04T11:12:24Z",
+                    "open_issues": 0,
                     "owner": "Novatrox",
                     "repo": "aurelia-keyboard-plugin",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1064,12 +1520,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Leaflet Plugin for Aurelia",
+                    "homepage": null,
                     "id": 35362558,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2015-09-16T06:53:22Z",
+                    "open_issues": 9,
                     "owner": "ceoaliongroo",
                     "repo": "aurelia-leaflet",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1080,12 +1541,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Aurelia plugin for Youtube player API",
+                    "homepage": null,
                     "id": 45928302,
                     "language": "JavaScript",
+                    "license": "CC0-1.0",
                     "last_commit": "2016-12-22T16:22:41Z",
+                    "open_issues": 1,
                     "owner": "genadis",
                     "repo": "aurelia-yt-player",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1096,12 +1562,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Aurelia ace editor plugin",
+                    "homepage": null,
                     "id": 55628072,
                     "language": "JavaScript",
+                    "license": "CC0-1.0",
                     "last_commit": "2016-08-14T16:38:07Z",
+                    "open_issues": 2,
                     "owner": "abalmus",
                     "repo": "aurelia-ace-editor",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1112,12 +1583,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A plugin for loading any Markdown into custom element",
+                    "homepage": null,
                     "id": 56783880,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2016-05-05T11:08:27Z",
+                    "open_issues": 0,
                     "owner": "behzad888",
                     "repo": "aurelia-view-pipeline",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1128,12 +1604,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Aurelia plugin which adds the ability to control footer content via the router",
+                    "homepage": null,
                     "id": 48338675,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-01-03T19:01:05Z",
+                    "open_issues": 11,
                     "owner": "drive",
                     "repo": "aurelia-routed-footer",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1144,12 +1625,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Aurelia plugin for the treacherous validation system ",
+                    "homepage": null,
                     "id": 55393216,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2017-01-09T11:08:00Z",
+                    "open_issues": 1,
                     "owner": "Treacherous",
                     "repo": "treacherous-aurelia",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": [
+                      "async-validation",
+                      "aurelia",
+                      "aurelia-plugins",
+                      "javascript",
+                      "typescript",
+                      "validation"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1160,12 +1653,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A place picker inspired by the 'Autocomplete places with Aurelia.io' blog by François Wouts",
+                    "homepage": null,
                     "id": 56582633,
                     "language": "JavaScript",
+                    "license": "CC0-1.0",
                     "last_commit": "2016-05-19T12:30:37Z",
+                    "open_issues": 1,
                     "owner": "Tseberechts",
                     "repo": "aurelia-place-picker",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1176,12 +1674,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Telemetry plugin for the Aurelia web framework.",
+                    "homepage": null,
                     "id": 82333047,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2022-04-09T02:11:52Z",
+                    "open_issues": 11,
                     "owner": "manuel-guilbault",
                     "repo": "aurelia-telemetry",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 }
@@ -1199,12 +1702,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A 100% aurelia based data table component.",
+                    "homepage": "http://aurelia-datatable.spoonx.org",
                     "id": 48394586,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-11-25T12:43:23Z",
+                    "open_issues": 0,
                     "owner": "SpoonX",
                     "repo": "aurelia-datatable",
-                    "stars": 32
+                    "stars": 32,
+                    "topics": [
+                      "aurelia",
+                      "aurelia-datatable",
+                      "aurelia-orm",
+                      "aurelia-pager",
+                      "datatable",
+                      "grid",
+                      "jspm"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1215,12 +1731,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Next Generation Stamp Web Editor written in Aurelio.io with Bootstrap",
+                    "homepage": null,
                     "id": 34555916,
                     "language": "JavaScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-20T04:20:54Z",
+                    "open_issues": 13,
                     "owner": "stamp-web",
                     "repo": "stamp-web-aurelia",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1231,12 +1752,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A dependency free tabs component for your Aurelia applications. Allows you to toggle between sections of content, with supports for dynamically composing views with optional data.",
+                    "homepage": null,
                     "id": 42221749,
                     "language": "CSS",
+                    "license": "MIT",
                     "last_commit": "2016-08-23T12:37:31Z",
+                    "open_issues": 3,
                     "owner": "Vheissu",
                     "repo": "aurelia-tabs",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1247,12 +1773,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation of the Aurelia base animator using TinyAnimate",
+                    "homepage": null,
                     "id": 36958772,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2015-06-05T22:39:44Z",
+                    "open_issues": 1,
                     "owner": "gooy",
                     "repo": "aurelia-animator-tinyanimate",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1263,12 +1794,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Sample app with Aurelia and TinyMCE",
+                    "homepage": null,
                     "id": 45519963,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2015-11-15T10:08:05Z",
+                    "open_issues": 0,
                     "owner": "sukobuto",
                     "repo": "aurelia-tinymce-sample",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 }
@@ -1286,12 +1822,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.",
+                    "homepage": "http://www.ag-grid.com",
                     "id": 28407613,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-28T13:54:48Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-28T21:35:58Z",
+                    "open_issues": 133,
                     "owner": "ag-grid",
                     "repo": "ag-grid",
-                    "stars": 15570
+                    "stars": 15571,
+                    "topics": [
+                      "angular",
+                      "angular-grid",
+                      "angular-table",
+                      "charting",
+                      "datagrid",
+                      "datatable",
+                      "excel",
+                      "filtering",
+                      "grid",
+                      "grouping",
+                      "javascript-table",
+                      "pagination",
+                      "pivoting",
+                      "react",
+                      "react-grid",
+                      "react-table",
+                      "sorting",
+                      "table",
+                      "vue-table",
+                      "vuejs"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1302,12 +1864,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A chart element for aurelia which is powered by chart js using html5 canvas.",
+                    "homepage": null,
                     "id": 38245602,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-04T05:16:10Z",
+                    "open_issues": 0,
                     "owner": "grofit",
                     "repo": "aurelia-chart",
-                    "stars": 46
+                    "stars": 46,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1318,12 +1885,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "aurelia-v-grid",
+                    "homepage": null,
                     "id": 59902978,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2017-08-27T18:55:19Z",
+                    "open_issues": 1,
                     "owner": "aurelia-ui-toolkits",
                     "repo": "aurelia-v-grid",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1334,12 +1906,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Leaflet CustomElement for Aurelia",
+                    "homepage": "http://benib.github.io/aurelia-leaflet/",
                     "id": 40052503,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-12-20T09:37:16Z",
+                    "open_issues": 4,
                     "owner": "benib",
                     "repo": "aurelia-leaflet",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 }
@@ -1357,12 +1934,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Sample integrating aurelia with identityserver 4 and docker",
+                    "homepage": null,
                     "id": 53035604,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-02-10T16:49:26Z",
+                    "open_issues": 1,
                     "owner": "paulvanbladel",
                     "repo": "aurelia-identityserver-aspnetcore",
-                    "stars": 37
+                    "stars": 37,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1373,12 +1955,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Aurelia client sample with aurelia-authentication and loopback server",
+                    "homepage": null,
                     "id": 54637739,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2018-05-05T17:41:13Z",
+                    "open_issues": 0,
                     "owner": "doktordirk",
                     "repo": "aurelia-authentication-loopback-sample",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1389,12 +1976,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Example of CASL and Aurelia integration",
+                    "homepage": null,
                     "id": 98405434,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2026-02-13T16:42:20Z",
+                    "open_issues": 13,
                     "owner": "stalniy",
                     "repo": "casl-aurelia-example",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 }
@@ -1412,12 +2004,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A curated list of amazingly awesome Aurelia libraries.",
+                    "homepage": null,
                     "id": 49408207,
                     "language": null,
+                    "license": null,
                     "last_commit": "2022-08-18T14:06:13Z",
+                    "open_issues": 0,
                     "owner": "aurelia-contrib",
                     "repo": "awesome-aurelia",
-                    "stars": 310
+                    "stars": 310,
+                    "topics": [
+                      "awesome",
+                      "awesome-list",
+                      "list"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1428,12 +2029,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A library for bundling JavaScript, HTML and CSS for use with SystemJS.",
+                    "homepage": null,
                     "id": 41557420,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2020-03-18T02:50:03Z",
+                    "open_issues": 0,
                     "owner": "aurelia",
                     "repo": "bundler",
-                    "stars": 36
+                    "stars": 36,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1444,12 +2050,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The minimal set of polyfills needed to run Aurelia.",
+                    "homepage": null,
                     "id": 51777821,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-01-04T21:52:46Z",
+                    "open_issues": 19,
                     "owner": "aurelia",
                     "repo": "polyfills",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1460,12 +2071,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A simple, restful, message-based wrapper around sails.io client.",
+                    "homepage": null,
                     "id": 34135582,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-09-28T07:31:06Z",
+                    "open_issues": 0,
                     "owner": "Mordred",
                     "repo": "aurelia-sails-socket-client",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 }
@@ -1483,12 +2099,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Northwind demo using Aurelia and Breeze",
+                    "homepage": "http://jdanyow.github.io/aurelia-breeze-northwind/",
                     "id": 35767488,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-01-24T14:56:40Z",
+                    "open_issues": 7,
                     "owner": "jdanyow",
                     "repo": "aurelia-breeze-northwind",
-                    "stars": 90
+                    "stars": 90,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1499,12 +2120,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Klondike solitaire built with Aurelia and dragula",
+                    "homepage": "http://jdanyow.github.io/aurelia-solitaire/",
                     "id": 38801630,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2015-09-25T01:32:11Z",
+                    "open_issues": 4,
                     "owner": "jdanyow",
                     "repo": "aurelia-solitaire",
-                    "stars": 73
+                    "stars": 73,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1515,12 +2141,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A recreation of the Hacker News website written in TypeScript and built with Aurelia.",
+                    "homepage": "https://michaelbull.github.io/aurelia-hacker-news",
                     "id": 74789386,
                     "language": "TypeScript",
+                    "license": "ISC",
                     "last_commit": "2020-08-25T22:00:07Z",
+                    "open_issues": 4,
                     "owner": "michaelbull",
                     "repo": "aurelia-hacker-news",
-                    "stars": 62
+                    "stars": 62,
+                    "topics": [
+                      "aurelia",
+                      "firebase",
+                      "hacker-news",
+                      "hackernews",
+                      "hackernews-clone",
+                      "typescript",
+                      "webpack"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1531,12 +2170,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Minesweeper implementation in Aurelia",
+                    "homepage": "http://discosultan.github.io/aurelia-minesweeper/",
                     "id": 49585960,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2016-08-19T07:36:33Z",
+                    "open_issues": 0,
                     "owner": "discosultan",
                     "repo": "aurelia-minesweeper",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": [
+                      "aurelia",
+                      "minesweeper"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1547,12 +2194,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": null,
+                    "homepage": null,
                     "id": 48723087,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2017-10-18T08:10:37Z",
+                    "open_issues": 1,
                     "owner": "jimschubert",
                     "repo": "aurelia-webapi-example",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1565,12 +2217,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "description": "An example desktop application written with Electron and Aurelia.",
+                        "homepage": null,
                         "id": 36948861,
                         "language": "JavaScript",
+                        "license": "MIT",
                         "last_commit": "2016-08-26T20:20:33Z",
+                        "open_issues": 4,
                         "owner": "jimschubert",
                         "repo": "electron-aurelia-example",
-                        "stars": 35
+                        "stars": 35,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:55:44.833Z"
                     },
@@ -1581,12 +2238,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Aurelia Electron app built with Webpack",
+                        "homepage": null,
                         "id": 150807343,
                         "language": "TypeScript",
+                        "license": null,
                         "last_commit": "2023-10-05T17:49:23Z",
+                        "open_issues": 3,
                         "owner": "timfish",
                         "repo": "aurelia-electron-webpack",
-                        "stars": 28
+                        "stars": 28,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:55:44.833Z"
                     },
@@ -1597,12 +2259,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Sample application that shows how to combine TypeScript, VSCode and Electron.  ",
+                        "homepage": null,
                         "id": 61634138,
                         "language": "JavaScript",
+                        "license": null,
                         "last_commit": "2016-06-23T20:14:13Z",
+                        "open_issues": 0,
                         "owner": "seesharper",
                         "repo": "AureliaElectronHappiness",
-                        "stars": 7
+                        "stars": 7,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:55:44.833Z"
                     }
@@ -1632,12 +2299,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+                    "homepage": "https://www.typescriptlang.org",
                     "id": 20929025,
                     "language": "Go",
-                    "last_commit": "2026-08-27T23:48:59Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-29T00:01:59Z",
+                    "open_issues": 5166,
                     "owner": "microsoft",
                     "repo": "TypeScript",
-                    "stars": 110744
+                    "stars": 110758,
+                    "topics": [
+                      "javascript",
+                      "language",
+                      "typechecker",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1648,12 +2325,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The repository for high quality TypeScript type definitions.",
+                    "homepage": null,
                     "id": 6093316,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-28T13:13:28Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-29T02:35:51Z",
+                    "open_issues": 690,
                     "owner": "DefinitelyTyped",
                     "repo": "DefinitelyTyped",
-                    "stars": 51412
+                    "stars": 51415,
+                    "topics": [
+                      "definition",
+                      "dts",
+                      "hacktoberfest",
+                      "types",
+                      "typescript",
+                      "typescript-definitions",
+                      "typings"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 }
@@ -1671,12 +2361,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A curated list of amazingly awesome Aurelia libraries.",
+                    "homepage": null,
                     "id": 49408207,
                     "language": null,
+                    "license": null,
                     "last_commit": "2022-08-18T14:06:13Z",
+                    "open_issues": 0,
                     "owner": "aurelia-contrib",
                     "repo": "awesome-aurelia",
-                    "stars": 310
+                    "stars": 310,
+                    "topics": [
+                      "awesome",
+                      "awesome-list",
+                      "list"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1687,12 +2386,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A starter kit for working with the Aurelia TypeScript type definitions",
+                    "homepage": null,
                     "id": 29904597,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2015-12-06T11:14:42Z",
+                    "open_issues": 28,
                     "owner": "cmichaelgraham",
                     "repo": "aurelia-typescript",
-                    "stars": 142
+                    "stars": 142,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1703,12 +2407,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Aurelia navigation skeleton implemented with Gulp and Typescript",
+                    "homepage": null,
                     "id": 32023806,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2015-05-10T08:58:31Z",
+                    "open_issues": 1,
                     "owner": "Enrapt",
                     "repo": "aurelia-skeleton-navigation-gulp-typescript",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1719,12 +2428,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "As a Visual Studio TypeScript and C# developer building web-based, spatial information systems targeting a variety of platforms that leverage ESRI and SQL Server, I want a starter kit so that I can rapidly build implementations.",
+                    "homepage": null,
                     "id": 54259366,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2016-03-26T09:03:57Z",
+                    "open_issues": 1,
                     "owner": "cmichaelgraham",
                     "repo": "aurelia-axel",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1735,12 +2449,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "As a user, I want a walk through of creating a web app from the `aurelia-axel` starter kit, based of a familiar database (Northwind).",
+                    "homepage": null,
                     "id": 54343611,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2016-06-04T10:27:47Z",
+                    "open_issues": 3,
                     "owner": "cmichaelgraham",
                     "repo": "aurelia-axel-northwind",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 },
@@ -1751,12 +2470,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "aurelia chrome extension seed: new tab overridden",
+                    "homepage": null,
                     "id": 212000846,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2019-10-01T02:56:46Z",
+                    "open_issues": 0,
                     "owner": "PraveenGandhi",
                     "repo": "aurelia-chrome-extension-seed",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 }
@@ -1781,12 +2505,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A curated list of amazingly awesome Aurelia libraries.",
+                    "homepage": null,
                     "id": 49408207,
                     "language": null,
+                    "license": null,
                     "last_commit": "2022-08-18T14:06:13Z",
+                    "open_issues": 0,
                     "owner": "aurelia-contrib",
                     "repo": "awesome-aurelia",
-                    "stars": 310
+                    "stars": 310,
+                    "topics": [
+                      "awesome",
+                      "awesome-list",
+                      "list"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 }
@@ -1804,12 +2537,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 29360078,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2015-01-28T10:26:51Z",
+                    "open_issues": 1,
                     "owner": "ahmedshuhel",
                     "repo": "nav-app-es5",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 }
@@ -1827,12 +2565,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple examples for different methods of implementing observer patterns in Aurelia",
+                    "homepage": null,
                     "id": 56541586,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2016-04-24T17:13:15Z",
+                    "open_issues": 0,
                     "owner": "axwalker",
                     "repo": "aurelia-observer-patterns",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 }
@@ -1857,12 +2600,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Aurelia meets Meteor",
+                    "homepage": null,
                     "id": 43730303,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2018-06-15T12:29:25Z",
+                    "open_issues": 4,
                     "owner": "TsumiNa",
                     "repo": "meteor-aurelia",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
                 }
@@ -1881,15 +2629,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:55:44.833Z",
+    "last_updated": "2026-08-29T04:46:41.878Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of amazingly awesome Aurelia libraries.",
+      "homepage": null,
       "id": 49408207,
       "language": null,
+      "license": null,
       "last_commit": "2022-08-18T14:06:13Z",
+      "open_issues": 0,
       "owner": "aurelia-contrib",
       "repo": "awesome-aurelia",
-      "stars": 310
+      "stars": 310,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "list"
+      ]
     },
     "original_repository_sha": "db81f616303f585cd74f8a4758e4825457966cf8",
     "enhanced_repository": "enhansome/enhansome-aurelia",
