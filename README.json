@@ -1827,8 +1827,8 @@
                     "id": 28407613,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-28T21:35:58Z",
-                    "open_issues": 133,
+                    "last_commit": "2026-08-29T08:36:47Z",
+                    "open_issues": 134,
                     "owner": "ag-grid",
                     "repo": "ag-grid",
                     "stars": 15571,
@@ -2308,7 +2308,7 @@
                     "open_issues": 5166,
                     "owner": "microsoft",
                     "repo": "TypeScript",
-                    "stars": 110758,
+                    "stars": 110763,
                     "topics": [
                       "javascript",
                       "language",
@@ -2629,7 +2629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:46:41.878Z",
+    "last_updated": "2026-08-29T08:42:53.316Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Aurelia libraries.",
