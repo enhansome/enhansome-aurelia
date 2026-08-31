@@ -424,7 +424,7 @@
                     "id": 97627474,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-08-26T00:28:51Z",
+                    "last_commit": "2026-08-31T00:35:05Z",
                     "open_issues": 14,
                     "owner": "stalniy",
                     "repo": "casl",
@@ -1831,7 +1831,7 @@
                     "open_issues": 134,
                     "owner": "ag-grid",
                     "repo": "ag-grid",
-                    "stars": 15570,
+                    "stars": 15571,
                     "topics": [
                       "angular",
                       "angular-grid",
@@ -2304,11 +2304,11 @@
                     "id": 20929025,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-29T00:01:59Z",
-                    "open_issues": 5169,
+                    "last_commit": "2026-08-31T00:57:19Z",
+                    "open_issues": 5177,
                     "owner": "microsoft",
                     "repo": "TypeScript",
-                    "stars": 110783,
+                    "stars": 110804,
                     "topics": [
                       "javascript",
                       "language",
@@ -2330,11 +2330,11 @@
                     "id": 6093316,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-29T21:07:09Z",
-                    "open_issues": 690,
+                    "last_commit": "2026-08-31T00:07:51Z",
+                    "open_issues": 691,
                     "owner": "DefinitelyTyped",
                     "repo": "DefinitelyTyped",
-                    "stars": 51418,
+                    "stars": 51420,
                     "topics": [
                       "definition",
                       "dts",
@@ -2629,7 +2629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T07:59:57.120Z",
+    "last_updated": "2026-08-31T08:15:08.390Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Aurelia libraries.",
