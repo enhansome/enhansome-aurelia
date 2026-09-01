@@ -240,7 +240,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Aurelia Custom Element
 
-* [ag-grid-aurelia](https://github.com/ag-grid/ag-grid/tree/master/packages/ag-grid-aurelia) ⭐ 15,571 | 🐛 134 | 🌐 TypeScript | 📅 2026-08-29 \* The Aurelia Component for use with ag-Grid, an advanced data grid/data table - [Demo](https://www.ag-grid.com/best-aurelia-data-grid/)
+* [ag-grid-aurelia](https://github.com/ag-grid/ag-grid/tree/master/packages/ag-grid-aurelia) ⭐ 15,573 | 🐛 138 | 🌐 TypeScript | 📅 2026-09-01 \* The Aurelia Component for use with ag-Grid, an advanced data grid/data table - [Demo](https://www.ag-grid.com/best-aurelia-data-grid/)
 * [aurelia-chart](https://github.com/grofit/aurelia-chart) ⭐ 46 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-04 \* A chart element for aurelia which is powered by chart js using html5 canvas
 * [aurelia-v-grid](https://github.com/aurelia-ui-toolkits/aurelia-v-grid) ⭐ 22 | 🐛 1 | 📅 2017-08-27 \* aurelia-v-grid
 * [aurelia-leaflet](https://github.com/benib/aurelia-leaflet) ⭐ 17 | 🐛 4 | 🌐 JavaScript | 📅 2017-12-20 \* [A Leaflet CustomElement for Aurelia](http://benib.github.io/aurelia-leaflet/)
@@ -281,8 +281,8 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### TypeScript General Resources
 
-* [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) ⭐ 110,804 | 🐛 5,177 | 🌐 Go | 📅 2026-08-31 Official GitHub Repo for TypeScript
-* [DefinitelyTyped Repository (GitHub)](https://github.com/DefinitelyTyped/DefinitelyTyped) ⭐ 51,420 | 🐛 691 | 🌐 TypeScript | 📅 2026-08-31 The repository for high quality TypeScript type definitions.
+* [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) ⭐ 110,827 | 🐛 5,167 | 🌐 Go | 📅 2026-09-01 Official GitHub Repo for TypeScript
+* [DefinitelyTyped Repository (GitHub)](https://github.com/DefinitelyTyped/DefinitelyTyped) ⭐ 51,420 | 🐛 692 | 🌐 TypeScript | 📅 2026-08-31 The repository for high quality TypeScript type definitions.
 * [TypeScript](http://www.typescriptlang.org/) Official Website for TypeScript
 * [REPL](http://www.typescriptlang.org/Playground) Official TypeScript REPL that runs entirely in your browser
 * [TSD](http://definitelytyped.org/tsd) TypeScript Definition manager for DefinitelyTyped
@@ -352,4 +352,4 @@ A lot of times, making a PR adhere to the standards above can be difficult. If t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
