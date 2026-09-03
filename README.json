@@ -424,8 +424,8 @@
                     "id": 97627474,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-01T20:00:46Z",
-                    "open_issues": 14,
+                    "last_commit": "2026-09-03T06:08:47Z",
+                    "open_issues": 15,
                     "owner": "stalniy",
                     "repo": "casl",
                     "stars": 7064,
@@ -650,7 +650,7 @@
                     "open_issues": 27,
                     "owner": "aurelia",
                     "repo": "webpack-plugin",
-                    "stars": 88,
+                    "stars": 89,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
@@ -1827,11 +1827,11 @@
                     "id": 28407613,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-02T01:44:45Z",
-                    "open_issues": 131,
+                    "last_commit": "2026-09-02T20:17:36Z",
+                    "open_issues": 137,
                     "owner": "ag-grid",
                     "repo": "ag-grid",
-                    "stars": 15577,
+                    "stars": 15578,
                     "topics": [
                       "angular",
                       "angular-grid",
@@ -2304,11 +2304,11 @@
                     "id": 20929025,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-02T05:03:37Z",
-                    "open_issues": 5155,
+                    "last_commit": "2026-09-03T01:14:55Z",
+                    "open_issues": 5144,
                     "owner": "microsoft",
                     "repo": "TypeScript",
-                    "stars": 110844,
+                    "stars": 110858,
                     "topics": [
                       "javascript",
                       "language",
@@ -2330,11 +2330,11 @@
                     "id": 6093316,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-02T02:04:53Z",
-                    "open_issues": 683,
+                    "last_commit": "2026-09-03T04:48:34Z",
+                    "open_issues": 678,
                     "owner": "DefinitelyTyped",
                     "repo": "DefinitelyTyped",
-                    "stars": 51419,
+                    "stars": 51420,
                     "topics": [
                       "definition",
                       "dts",
@@ -2629,7 +2629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T06:53:55.521Z",
+    "last_updated": "2026-09-03T06:57:25.013Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Aurelia libraries.",

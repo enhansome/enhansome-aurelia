@@ -170,7 +170,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Aurelia Plugins
 
-* [casl-aurelia](https://github.com/stalniy/casl/tree/master/packages/casl-aurelia) ⭐ 7,064 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-01 \* Permissions management plugin which allows to integrate Aurelia and CASL
+* [casl-aurelia](https://github.com/stalniy/casl/tree/master/packages/casl-aurelia) ⭐ 7,064 | 🐛 15 | 🌐 TypeScript | 📅 2026-09-03 \* Permissions management plugin which allows to integrate Aurelia and CASL
 * [**{{** add\_your\_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md) ⭐ 310 | 🐛 0 | 📅 2022-08-18
 * [aurelia-auth](https://github.com/paulvanbladel/aurelia-auth) ⭐ 198 | 🐛 30 | 🌐 JavaScript | 📅 2018-05-08 \* Token-based authentication plugin for aurelia
 * [aurelia-ui-framework](https://github.com/adarshpastakia/aurelia-ui-framework) ⚠️ Archived \* A bespoke UI Framework built on Aurelia for desktop business application
@@ -179,7 +179,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [Aurelia-Configuration](https://github.com/vheissu/aurelia-configuration) ⭐ 100 | 🐛 10 | 🌐 TypeScript | 📅 2021-07-14 \* Smart configuration for your Aurelia applications.
 * [aurelia-i18n](https://github.com/aurelia/i18n) ⭐ 92 | 🐛 25 | 🌐 TypeScript | 📅 2023-03-10 {official} \* A plugin that provides i18n support
 * [aurelia-ui-virtualization](https://github.com/aurelia/ui-virtualization) ⭐ 89 | 🐛 21 | 🌐 TypeScript | 📅 2023-03-15 {official} \* A plugin that provides a virtualized repeater and other virtualization services
-* [webpack-plugin](https://github.com/aurelia/webpack-plugin) ⭐ 88 | 🐛 27 | 🌐 TypeScript | 📅 2023-07-07 {official} \* A plugin for webpack that enables bundling Aurelia applications
+* [webpack-plugin](https://github.com/aurelia/webpack-plugin) ⭐ 89 | 🐛 27 | 🌐 TypeScript | 📅 2023-07-07 {official} \* A plugin for webpack that enables bundling Aurelia applications
 * [aurelia-authentication](https://github.com/SpoonX/aurelia-authentication) ⚠️ Archived {ES6/TS/Webpack} \* Authentication plugin for aurelia with aurelia-api support.
 * [aurelia-orm](https://github.com/SpoonX/aurelia-orm) ⚠️ Archived {ES6/TS/Webpack} \* Makes working with entities and calling your Rest API simple.
 * [aurelia-flux](https://github.com/tfrydrychewicz/aurelia-flux) ⭐ 74 | 🐛 11 | 🌐 JavaScript | 📅 2016-04-19 \* Flux dispatcher plugin for Aurelia
@@ -240,7 +240,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Aurelia Custom Element
 
-* [ag-grid-aurelia](https://github.com/ag-grid/ag-grid/tree/master/packages/ag-grid-aurelia) ⭐ 15,577 | 🐛 131 | 🌐 TypeScript | 📅 2026-09-02 \* The Aurelia Component for use with ag-Grid, an advanced data grid/data table - [Demo](https://www.ag-grid.com/best-aurelia-data-grid/)
+* [ag-grid-aurelia](https://github.com/ag-grid/ag-grid/tree/master/packages/ag-grid-aurelia) ⭐ 15,578 | 🐛 137 | 🌐 TypeScript | 📅 2026-09-02 \* The Aurelia Component for use with ag-Grid, an advanced data grid/data table - [Demo](https://www.ag-grid.com/best-aurelia-data-grid/)
 * [aurelia-chart](https://github.com/grofit/aurelia-chart) ⭐ 46 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-04 \* A chart element for aurelia which is powered by chart js using html5 canvas
 * [aurelia-v-grid](https://github.com/aurelia-ui-toolkits/aurelia-v-grid) ⭐ 22 | 🐛 1 | 📅 2017-08-27 \* aurelia-v-grid
 * [aurelia-leaflet](https://github.com/benib/aurelia-leaflet) ⭐ 17 | 🐛 4 | 🌐 JavaScript | 📅 2017-12-20 \* [A Leaflet CustomElement for Aurelia](http://benib.github.io/aurelia-leaflet/)
@@ -281,8 +281,8 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### TypeScript General Resources
 
-* [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) ⭐ 110,844 | 🐛 5,155 | 🌐 Go | 📅 2026-09-02 Official GitHub Repo for TypeScript
-* [DefinitelyTyped Repository (GitHub)](https://github.com/DefinitelyTyped/DefinitelyTyped) ⭐ 51,419 | 🐛 683 | 🌐 TypeScript | 📅 2026-09-02 The repository for high quality TypeScript type definitions.
+* [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) ⭐ 110,858 | 🐛 5,144 | 🌐 Go | 📅 2026-09-03 Official GitHub Repo for TypeScript
+* [DefinitelyTyped Repository (GitHub)](https://github.com/DefinitelyTyped/DefinitelyTyped) ⭐ 51,420 | 🐛 678 | 🌐 TypeScript | 📅 2026-09-03 The repository for high quality TypeScript type definitions.
 * [TypeScript](http://www.typescriptlang.org/) Official Website for TypeScript
 * [REPL](http://www.typescriptlang.org/Playground) Official TypeScript REPL that runs entirely in your browser
 * [TSD](http://definitelytyped.org/tsd) TypeScript Definition manager for DefinitelyTyped
@@ -352,4 +352,4 @@ A lot of times, making a PR adhere to the standards above can be difficult. If t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
