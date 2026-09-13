@@ -428,7 +428,7 @@
                     "open_issues": 14,
                     "owner": "stalniy",
                     "repo": "casl",
-                    "stars": 7072,
+                    "stars": 7074,
                     "topics": [
                       "acl",
                       "authorization",
@@ -1831,7 +1831,7 @@
                     "open_issues": 121,
                     "owner": "ag-grid",
                     "repo": "ag-grid",
-                    "stars": 15597,
+                    "stars": 15600,
                     "topics": [
                       "angular",
                       "angular-grid",
@@ -2305,10 +2305,10 @@
                     "language": "Go",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-12T00:32:38Z",
-                    "open_issues": 5057,
+                    "open_issues": 5063,
                     "owner": "microsoft",
                     "repo": "TypeScript",
-                    "stars": 111004,
+                    "stars": 111019,
                     "topics": [
                       "javascript",
                       "language",
@@ -2330,11 +2330,11 @@
                     "id": 6093316,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-11T17:31:18Z",
-                    "open_issues": 694,
+                    "last_commit": "2026-09-12T12:04:33Z",
+                    "open_issues": 698,
                     "owner": "DefinitelyTyped",
                     "repo": "DefinitelyTyped",
-                    "stars": 51433,
+                    "stars": 51437,
                     "topics": [
                       "definition",
                       "dts",
@@ -2629,7 +2629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T06:57:33.114Z",
+    "last_updated": "2026-09-13T07:15:40.067Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Aurelia libraries.",
