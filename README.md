@@ -165,12 +165,12 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [**{{** add\_your\_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md) ⭐ 311 | 🐛 0 | 📅 2022-08-18
 * [Official Aurelia Material Design (Github)](https://github.com/joelcoxokc/aurelia-interface) ⭐ 85 | 🐛 10 | 📅 2015-07-15
 * [aurelia-material](https://github.com/redpelicans/aurelia-material) ⭐ 49 | 🐛 6 | 🌐 JavaScript | 📅 2016-03-23
-* [aurelia-mdl](https://github.com/genadis/aurelia-mdl) ⭐ 22 | 🐛 0 | 🌐 HTML | 📅 2017-10-03
+* [aurelia-mdl](https://github.com/genadis/aurelia-mdl) ⭐ 21 | 🐛 0 | 🌐 HTML | 📅 2017-10-03
 * [aurelia-mdl-plugin](https://github.com/arabsight/aurelia-mdl-plugin) ⚠️ Archived \* Material Design Lite plugin for Aurelia
 
 #### Aurelia Plugins
 
-* [casl-aurelia](https://github.com/stalniy/casl/tree/master/packages/casl-aurelia) ⭐ 7,074 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-14 \* Permissions management plugin which allows to integrate Aurelia and CASL
+* [casl-aurelia](https://github.com/stalniy/casl/tree/master/packages/casl-aurelia) ⭐ 7,076 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-15 \* Permissions management plugin which allows to integrate Aurelia and CASL
 * [**{{** add\_your\_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md) ⭐ 311 | 🐛 0 | 📅 2022-08-18
 * [aurelia-auth](https://github.com/paulvanbladel/aurelia-auth) ⭐ 198 | 🐛 30 | 🌐 JavaScript | 📅 2018-05-08 \* Token-based authentication plugin for aurelia
 * [aurelia-ui-framework](https://github.com/adarshpastakia/aurelia-ui-framework) ⚠️ Archived \* A bespoke UI Framework built on Aurelia for desktop business application
@@ -218,8 +218,8 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [aurelia-environment](https://github.com/MarcScheib/aurelia-environment) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2017-08-03 \* aurelia-environment provides simple .env parsing and loading
 * [aurelia-keyboard-plugin](https://github.com/Novatrox/aurelia-keyboard-plugin) ⚠️ Archived \* Simple keyboard plugin for aurelia
 * [aurelia-leaflet](https://github.com/ceoaliongroo/aurelia-leaflet) ⭐ 4 | 🐛 9 | 🌐 JavaScript | 📅 2015-09-16 \* Leaflet Plugin for Aurelia
-* [aurelia-yt-player](https://github.com/genadis/aurelia-yt-player) ⚠️ Archived \* Aurelia plugin for Youtube player API
 * [abalmus/aurelia-ace-editor](https://github.com/abalmus/aurelia-ace-editor) ⭐ 4 | 🐛 2 | 🌐 JavaScript | 📅 2016-08-14 \* Aurelia ace editor plugin
+* [aurelia-yt-player](https://github.com/genadis/aurelia-yt-player) ⚠️ Archived \* Aurelia plugin for Youtube player API
 * [aurelia-view-pipeline](https://github.com/behzad888/aurelia-view-pipeline) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2016-05-05 \* A plugin for loading any Markdown into custom element
 * [aurelia-routed-footer](https://github.com/drivesoftware/aurelia-routed-footer) ⭐ 2 | 🐛 11 | 🌐 TypeScript | 📅 2023-01-03 \* An Aurelia plugin which adds the ability to control footer content via the router
 * [treacherous-aurelia](https://github.com/grofit/treacherous-aurelia) ⭐ 2 | 🐛 1 | 🌐 JavaScript | 📅 2017-01-09 \* An Aurelia plugin for the treacherous validation system
@@ -240,7 +240,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Aurelia Custom Element
 
-* [ag-grid-aurelia](https://github.com/ag-grid/ag-grid/tree/master/packages/ag-grid-aurelia) ⭐ 15,601 | 🐛 121 | 🌐 TypeScript | 📅 2026-09-11 \* The Aurelia Component for use with ag-Grid, an advanced data grid/data table - [Demo](https://www.ag-grid.com/best-aurelia-data-grid/)
+* [ag-grid-aurelia](https://github.com/ag-grid/ag-grid/tree/master/packages/ag-grid-aurelia) ⭐ 15,600 | 🐛 131 | 🌐 TypeScript | 📅 2026-09-14 \* The Aurelia Component for use with ag-Grid, an advanced data grid/data table - [Demo](https://www.ag-grid.com/best-aurelia-data-grid/)
 * [aurelia-chart](https://github.com/grofit/aurelia-chart) ⭐ 46 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-10 \* A chart element for aurelia which is powered by chart js using html5 canvas
 * [aurelia-v-grid](https://github.com/aurelia-ui-toolkits/aurelia-v-grid) ⭐ 22 | 🐛 1 | 📅 2017-08-27 \* aurelia-v-grid
 * [aurelia-leaflet](https://github.com/benib/aurelia-leaflet) ⭐ 17 | 🐛 4 | 🌐 JavaScript | 📅 2017-12-20 \* [A Leaflet CustomElement for Aurelia](http://benib.github.io/aurelia-leaflet/)
@@ -281,8 +281,8 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### TypeScript General Resources
 
-* [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) ⭐ 111,034 | 🐛 5,066 | 🌐 Go | 📅 2026-09-14 Official GitHub Repo for TypeScript
-* [DefinitelyTyped Repository (GitHub)](https://github.com/DefinitelyTyped/DefinitelyTyped) ⭐ 51,439 | 🐛 702 | 🌐 TypeScript | 📅 2026-09-14 The repository for high quality TypeScript type definitions.
+* [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) ⭐ 111,051 | 🐛 5,069 | 🌐 Go | 📅 2026-09-15 Official GitHub Repo for TypeScript
+* [DefinitelyTyped Repository (GitHub)](https://github.com/DefinitelyTyped/DefinitelyTyped) ⭐ 51,439 | 🐛 699 | 🌐 TypeScript | 📅 2026-09-14 The repository for high quality TypeScript type definitions.
 * [TypeScript](http://www.typescriptlang.org/) Official Website for TypeScript
 * [REPL](http://www.typescriptlang.org/Playground) Official TypeScript REPL that runs entirely in your browser
 * [TSD](http://definitelytyped.org/tsd) TypeScript Definition manager for DefinitelyTyped
@@ -352,4 +352,4 @@ A lot of times, making a PR adhere to the standards above can be difficult. If t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._

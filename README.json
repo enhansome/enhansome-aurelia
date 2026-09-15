@@ -374,7 +374,7 @@
                     "open_issues": 0,
                     "owner": "genadis",
                     "repo": "aurelia-mdl",
-                    "stars": 22,
+                    "stars": 21,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
@@ -424,11 +424,11 @@
                     "id": 97627474,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-14T01:55:10Z",
+                    "last_commit": "2026-09-15T06:58:55Z",
                     "open_issues": 14,
                     "owner": "stalniy",
                     "repo": "casl",
-                    "stars": 7074,
+                    "stars": 7076,
                     "topics": [
                       "acl",
                       "authorization",
@@ -1536,27 +1536,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "aurelia-yt-player",
-                  "description": "* Aurelia plugin for Youtube player API",
-                  "children": [],
-                  "repo_info": {
-                    "archived": true,
-                    "description": "Aurelia plugin for Youtube player API",
-                    "homepage": null,
-                    "id": 45928302,
-                    "language": "JavaScript",
-                    "license": "CC0-1.0",
-                    "last_commit": "2016-12-22T16:22:41Z",
-                    "open_issues": 1,
-                    "owner": "genadis",
-                    "repo": "aurelia-yt-player",
-                    "stars": 4,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T13:55:44.833Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "abalmus/aurelia-ace-editor",
                   "description": "* Aurelia ace editor plugin",
                   "children": [],
@@ -1572,6 +1551,27 @@
                     "owner": "abalmus",
                     "repo": "aurelia-ace-editor",
                     "stars": 4,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "aurelia-yt-player",
+                  "description": "* Aurelia plugin for Youtube player API",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "Aurelia plugin for Youtube player API",
+                    "homepage": null,
+                    "id": 45928302,
+                    "language": "JavaScript",
+                    "license": "CC0-1.0",
+                    "last_commit": "2016-12-22T16:22:41Z",
+                    "open_issues": 1,
+                    "owner": "genadis",
+                    "repo": "aurelia-yt-player",
+                    "stars": 3,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
@@ -1827,11 +1827,11 @@
                     "id": 28407613,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-11T16:19:58Z",
-                    "open_issues": 121,
+                    "last_commit": "2026-09-14T18:45:24Z",
+                    "open_issues": 131,
                     "owner": "ag-grid",
                     "repo": "ag-grid",
-                    "stars": 15601,
+                    "stars": 15600,
                     "topics": [
                       "angular",
                       "angular-grid",
@@ -2304,11 +2304,11 @@
                     "id": 20929025,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-14T00:56:07Z",
-                    "open_issues": 5066,
+                    "last_commit": "2026-09-15T00:00:41Z",
+                    "open_issues": 5069,
                     "owner": "microsoft",
                     "repo": "TypeScript",
-                    "stars": 111034,
+                    "stars": 111051,
                     "topics": [
                       "javascript",
                       "language",
@@ -2330,8 +2330,8 @@
                     "id": 6093316,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-14T00:08:38Z",
-                    "open_issues": 702,
+                    "last_commit": "2026-09-14T18:40:52Z",
+                    "open_issues": 699,
                     "owner": "DefinitelyTyped",
                     "repo": "DefinitelyTyped",
                     "stars": 51439,
@@ -2629,7 +2629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T07:39:46.506Z",
+    "last_updated": "2026-09-15T07:21:13.958Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Aurelia libraries.",
