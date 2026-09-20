@@ -428,7 +428,7 @@
                     "open_issues": 16,
                     "owner": "stalniy",
                     "repo": "casl",
-                    "stars": 7084,
+                    "stars": 7085,
                     "topics": [
                       "acl",
                       "authorization",
@@ -1827,8 +1827,8 @@
                     "id": 28407613,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-19T03:30:17Z",
-                    "open_issues": 114,
+                    "last_commit": "2026-09-20T03:32:24Z",
+                    "open_issues": 111,
                     "owner": "ag-grid",
                     "repo": "ag-grid",
                     "stars": 15603,
@@ -2304,11 +2304,11 @@
                     "id": 20929025,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-19T04:48:18Z",
-                    "open_issues": 5010,
+                    "last_commit": "2026-09-19T23:45:29Z",
+                    "open_issues": 5020,
                     "owner": "microsoft",
                     "repo": "TypeScript",
-                    "stars": 111110,
+                    "stars": 111123,
                     "topics": [
                       "javascript",
                       "language",
@@ -2331,7 +2331,7 @@
                     "language": "TypeScript",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-19T01:23:37Z",
-                    "open_issues": 700,
+                    "open_issues": 702,
                     "owner": "DefinitelyTyped",
                     "repo": "DefinitelyTyped",
                     "stars": 51437,
@@ -2629,7 +2629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T07:06:53.858Z",
+    "last_updated": "2026-09-20T07:32:24.665Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Aurelia libraries.",
