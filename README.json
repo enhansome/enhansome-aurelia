@@ -10,7 +10,7 @@
                 {
                   "node_type": "item",
                   "title": "Official GitHub Repo",
-                  "description": null,
+                  "description": "aurelia/framework",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -23,7 +23,7 @@
                     "open_issues": 60,
                     "owner": "aurelia",
                     "repo": "framework",
-                    "stars": 11675,
+                    "stars": 11676,
                     "topics": [
                       "aurelia-framework",
                       "cross-platform",
@@ -182,7 +182,7 @@
                 {
                   "node_type": "item",
                   "title": "{{ add_your_repo }}",
-                  "description": null,
+                  "description": "aurelia-contrib/awesome-aurelia",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -294,7 +294,7 @@
                 {
                   "node_type": "item",
                   "title": "{{ add_your_repo }}",
-                  "description": null,
+                  "description": "aurelia-contrib/awesome-aurelia",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -319,7 +319,7 @@
                 {
                   "node_type": "item",
                   "title": "Official Aurelia Material Design (Github)",
-                  "description": null,
+                  "description": "joelcoxokc/aurelia-interface",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -340,7 +340,7 @@
                 {
                   "node_type": "item",
                   "title": "aurelia-material",
-                  "description": null,
+                  "description": "redpelicans/aurelia-material",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -361,7 +361,7 @@
                 {
                   "node_type": "item",
                   "title": "aurelia-mdl",
-                  "description": null,
+                  "description": "genadis/aurelia-mdl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -424,11 +424,11 @@
                     "id": 97627474,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-01T19:08:10Z",
+                    "last_commit": "2026-10-02T14:34:55Z",
                     "open_issues": 16,
                     "owner": "stalniy",
                     "repo": "casl",
-                    "stars": 7090,
+                    "stars": 7091,
                     "topics": [
                       "acl",
                       "authorization",
@@ -443,7 +443,7 @@
                 {
                   "node_type": "item",
                   "title": "{{ add_your_repo }}",
-                  "description": null,
+                  "description": "aurelia-contrib/awesome-aurelia",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1670,7 +1670,7 @@
                 {
                   "node_type": "item",
                   "title": "aurelia-telemetry",
-                  "description": null,
+                  "description": "manuel-guilbault/aurelia-telemetry",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1827,8 +1827,8 @@
                     "id": 28407613,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-02T07:53:43Z",
-                    "open_issues": 137,
+                    "last_commit": "2026-10-03T03:42:44Z",
+                    "open_issues": 126,
                     "owner": "ag-grid",
                     "repo": "ag-grid",
                     "stars": 15626,
@@ -2000,7 +2000,7 @@
                 {
                   "node_type": "item",
                   "title": "{{ add_your_repo }}",
-                  "description": null,
+                  "description": "aurelia-contrib/awesome-aurelia",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2304,11 +2304,11 @@
                     "id": 20929025,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T00:09:53Z",
-                    "open_issues": 5044,
+                    "last_commit": "2026-10-03T04:24:16Z",
+                    "open_issues": 5052,
                     "owner": "microsoft",
                     "repo": "TypeScript",
-                    "stars": 111307,
+                    "stars": 111314,
                     "topics": [
                       "javascript",
                       "language",
@@ -2330,11 +2330,11 @@
                     "id": 6093316,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-01T22:23:01Z",
-                    "open_issues": 683,
+                    "last_commit": "2026-10-02T17:37:17Z",
+                    "open_issues": 685,
                     "owner": "DefinitelyTyped",
                     "repo": "DefinitelyTyped",
-                    "stars": 51447,
+                    "stars": 51445,
                     "topics": [
                       "definition",
                       "dts",
@@ -2357,7 +2357,7 @@
                 {
                   "node_type": "item",
                   "title": "{{ add_your_repo }}",
-                  "description": null,
+                  "description": "aurelia-contrib/awesome-aurelia",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2501,7 +2501,7 @@
                 {
                   "node_type": "item",
                   "title": "{{ help_add_resources }}",
-                  "description": null,
+                  "description": "aurelia-contrib/awesome-aurelia",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2629,7 +2629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T08:03:44.440Z",
+    "last_updated": "2026-10-03T04:37:49.267Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Aurelia libraries.",
