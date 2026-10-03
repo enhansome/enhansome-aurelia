@@ -424,8 +424,8 @@
                     "id": 97627474,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T14:34:55Z",
-                    "open_issues": 16,
+                    "last_commit": "2026-10-03T07:01:15Z",
+                    "open_issues": 18,
                     "owner": "stalniy",
                     "repo": "casl",
                     "stars": 7091,
@@ -2308,7 +2308,7 @@
                     "open_issues": 5052,
                     "owner": "microsoft",
                     "repo": "TypeScript",
-                    "stars": 111314,
+                    "stars": 111315,
                     "topics": [
                       "javascript",
                       "language",
@@ -2629,7 +2629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:37:49.267Z",
+    "last_updated": "2026-10-03T07:44:19.015Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Aurelia libraries.",
