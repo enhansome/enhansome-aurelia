@@ -23,7 +23,7 @@
                     "open_issues": 60,
                     "owner": "aurelia",
                     "repo": "framework",
-                    "stars": 11676,
+                    "stars": 11677,
                     "topics": [
                       "aurelia-framework",
                       "cross-platform",
@@ -424,7 +424,7 @@
                     "id": 97627474,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-03T07:01:15Z",
+                    "last_commit": "2026-10-05T02:18:32Z",
                     "open_issues": 18,
                     "owner": "stalniy",
                     "repo": "casl",
@@ -1827,11 +1827,11 @@
                     "id": 28407613,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-04T04:35:29Z",
-                    "open_issues": 127,
+                    "last_commit": "2026-10-05T08:29:09Z",
+                    "open_issues": 130,
                     "owner": "ag-grid",
                     "repo": "ag-grid",
-                    "stars": 15627,
+                    "stars": 15626,
                     "topics": [
                       "angular",
                       "angular-grid",
@@ -1915,7 +1915,7 @@
                     "open_issues": 4,
                     "owner": "benib",
                     "repo": "aurelia-leaflet",
-                    "stars": 17,
+                    "stars": 16,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
@@ -2129,7 +2129,7 @@
                     "open_issues": 4,
                     "owner": "jdanyow",
                     "repo": "aurelia-solitaire",
-                    "stars": 73,
+                    "stars": 74,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
@@ -2304,11 +2304,11 @@
                     "id": 20929025,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-03T17:49:32Z",
-                    "open_issues": 5055,
+                    "last_commit": "2026-10-05T00:57:28Z",
+                    "open_issues": 5064,
                     "owner": "microsoft",
                     "repo": "TypeScript",
-                    "stars": 111330,
+                    "stars": 111346,
                     "topics": [
                       "javascript",
                       "language",
@@ -2331,7 +2331,7 @@
                     "language": "TypeScript",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-02T17:37:17Z",
-                    "open_issues": 687,
+                    "open_issues": 707,
                     "owner": "DefinitelyTyped",
                     "repo": "DefinitelyTyped",
                     "stars": 51446,
@@ -2629,7 +2629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T07:53:38.149Z",
+    "last_updated": "2026-10-05T08:33:25.507Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Aurelia libraries.",
