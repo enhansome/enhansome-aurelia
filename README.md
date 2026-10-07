@@ -170,7 +170,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Aurelia Plugins
 
-* [casl-aurelia](https://github.com/stalniy/casl/tree/master/packages/casl-aurelia) ⭐ 7,093 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-06 \* Permissions management plugin which allows to integrate Aurelia and CASL
+* [casl-aurelia](https://github.com/stalniy/casl/tree/master/packages/casl-aurelia) ⭐ 7,095 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-07 \* Permissions management plugin which allows to integrate Aurelia and CASL
 * [**{{** add\_your\_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md) ⭐ 310 | 🐛 2 | 📅 2022-08-18
 * [aurelia-auth](https://github.com/paulvanbladel/aurelia-auth) ⭐ 198 | 🐛 30 | 🌐 JavaScript | 📅 2018-05-08 \* Token-based authentication plugin for aurelia
 * [aurelia-ui-framework](https://github.com/adarshpastakia/aurelia-ui-framework) ⚠️ Archived \* A bespoke UI Framework built on Aurelia for desktop business application
@@ -240,7 +240,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Aurelia Custom Element
 
-* [ag-grid-aurelia](https://github.com/ag-grid/ag-grid/tree/master/packages/ag-grid-aurelia) ⭐ 15,627 | 🐛 123 | 🌐 TypeScript | 📅 2026-10-06 \* The Aurelia Component for use with ag-Grid, an advanced data grid/data table - [Demo](https://www.ag-grid.com/best-aurelia-data-grid/)
+* [ag-grid-aurelia](https://github.com/ag-grid/ag-grid/tree/master/packages/ag-grid-aurelia) ⭐ 15,630 | 🐛 127 | 🌐 TypeScript | 📅 2026-10-07 \* The Aurelia Component for use with ag-Grid, an advanced data grid/data table - [Demo](https://www.ag-grid.com/best-aurelia-data-grid/)
 * [aurelia-chart](https://github.com/grofit/aurelia-chart) ⭐ 46 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-22 \* A chart element for aurelia which is powered by chart js using html5 canvas
 * [aurelia-v-grid](https://github.com/aurelia-ui-toolkits/aurelia-v-grid) ⭐ 22 | 🐛 1 | 📅 2017-08-27 \* aurelia-v-grid
 * [aurelia-leaflet](https://github.com/benib/aurelia-leaflet) ⭐ 16 | 🐛 4 | 🌐 JavaScript | 📅 2017-12-20 \* [A Leaflet CustomElement for Aurelia](http://benib.github.io/aurelia-leaflet/)
@@ -281,8 +281,8 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### TypeScript General Resources
 
-* [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) ⭐ 111,368 | 🐛 5,072 | 🌐 Go | 📅 2026-10-06 Official GitHub Repo for TypeScript
-* [DefinitelyTyped Repository (GitHub)](https://github.com/DefinitelyTyped/DefinitelyTyped) ⭐ 51,448 | 🐛 764 | 🌐 TypeScript | 📅 2026-10-06 The repository for high quality TypeScript type definitions.
+* [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) ⭐ 111,375 | 🐛 5,063 | 🌐 Go | 📅 2026-10-07 Official GitHub Repo for TypeScript
+* [DefinitelyTyped Repository (GitHub)](https://github.com/DefinitelyTyped/DefinitelyTyped) ⭐ 51,452 | 🐛 756 | 🌐 TypeScript | 📅 2026-10-07 The repository for high quality TypeScript type definitions.
 * [TypeScript](http://www.typescriptlang.org/) Official Website for TypeScript
 * [REPL](http://www.typescriptlang.org/Playground) Official TypeScript REPL that runs entirely in your browser
 * [TSD](http://definitelytyped.org/tsd) TypeScript Definition manager for DefinitelyTyped
@@ -348,8 +348,8 @@ Thank you for your suggestions!
 
 ## Updating your PR
 
-A lot of times, making a PR adhere to the standards above can be difficult. If the maintainers notice anything that we'd like changed, we'll ask you to edit your PR before we merge it. There's no need to open a new PR, just edit the existing one. If you're not sure how to do that, [here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) ⭐ 263 | 🐛 4 | 🌐 HTML | 📅 2026-10-02 on the different ways you can update your PR so that we can merge it.
+A lot of times, making a PR adhere to the standards above can be difficult. If the maintainers notice anything that we'd like changed, we'll ask you to edit your PR before we merge it. There's no need to open a new PR, just edit the existing one. If you're not sure how to do that, [here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) ⭐ 264 | 🐛 4 | 🌐 HTML | 📅 2026-10-02 on the different ways you can update your PR so that we can merge it.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
