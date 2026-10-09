@@ -62,7 +62,7 @@
                     "open_issues": 42,
                     "owner": "aurelia",
                     "repo": "vscode-extension",
-                    "stars": 110,
+                    "stars": 109,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
@@ -192,7 +192,7 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2022-08-18T14:06:13Z",
-                    "open_issues": 2,
+                    "open_issues": 0,
                     "owner": "aurelia-contrib",
                     "repo": "awesome-aurelia",
                     "stars": 310,
@@ -227,7 +227,7 @@
                     "open_issues": 0,
                     "owner": "zewa666",
                     "repo": "generator-aurelia",
-                    "stars": 77,
+                    "stars": 76,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
@@ -304,7 +304,7 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2022-08-18T14:06:13Z",
-                    "open_issues": 2,
+                    "open_issues": 0,
                     "owner": "aurelia-contrib",
                     "repo": "awesome-aurelia",
                     "stars": 310,
@@ -332,7 +332,7 @@
                     "open_issues": 10,
                     "owner": "joelcoxokc",
                     "repo": "aurelia-interface",
-                    "stars": 85,
+                    "stars": 84,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
@@ -353,7 +353,7 @@
                     "open_issues": 6,
                     "owner": "redpelicans",
                     "repo": "aurelia-material",
-                    "stars": 49,
+                    "stars": 48,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
@@ -424,11 +424,11 @@
                     "id": 97627474,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-07T04:50:11Z",
+                    "last_commit": "2026-10-08T16:45:42Z",
                     "open_issues": 18,
                     "owner": "stalniy",
                     "repo": "casl",
-                    "stars": 7096,
+                    "stars": 7097,
                     "topics": [
                       "acl",
                       "authorization",
@@ -453,7 +453,7 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2022-08-18T14:06:13Z",
-                    "open_issues": 2,
+                    "open_issues": 0,
                     "owner": "aurelia-contrib",
                     "repo": "awesome-aurelia",
                     "stars": 310,
@@ -608,28 +608,7 @@
                     "open_issues": 25,
                     "owner": "aurelia",
                     "repo": "i18n",
-                    "stars": 92,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T13:55:44.833Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "aurelia-ui-virtualization",
-                  "description": "{official} * A plugin that provides a virtualized repeater and other virtualization services",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A plugin that provides a virtualized repeater and other virtualization services.",
-                    "homepage": null,
-                    "id": 38145064,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2023-03-15T00:05:35Z",
-                    "open_issues": 21,
-                    "owner": "aurelia",
-                    "repo": "ui-virtualization",
-                    "stars": 89,
+                    "stars": 91,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
@@ -651,6 +630,27 @@
                     "owner": "aurelia",
                     "repo": "webpack-plugin",
                     "stars": 89,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T13:55:44.833Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "aurelia-ui-virtualization",
+                  "description": "{official} * A plugin that provides a virtualized repeater and other virtualization services",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A plugin that provides a virtualized repeater and other virtualization services.",
+                    "homepage": null,
+                    "id": 38145064,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2023-03-15T00:05:35Z",
+                    "open_issues": 21,
+                    "owner": "aurelia",
+                    "repo": "ui-virtualization",
+                    "stars": 88,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
@@ -1827,11 +1827,11 @@
                     "id": 28407613,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-08T08:27:46Z",
-                    "open_issues": 127,
+                    "last_commit": "2026-10-09T03:39:11Z",
+                    "open_issues": 120,
                     "owner": "ag-grid",
                     "repo": "ag-grid",
-                    "stars": 15632,
+                    "stars": 15633,
                     "topics": [
                       "angular",
                       "angular-grid",
@@ -2010,7 +2010,7 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2022-08-18T14:06:13Z",
-                    "open_issues": 2,
+                    "open_issues": 0,
                     "owner": "aurelia-contrib",
                     "repo": "awesome-aurelia",
                     "stars": 310,
@@ -2038,7 +2038,7 @@
                     "open_issues": 0,
                     "owner": "aurelia",
                     "repo": "bundler",
-                    "stars": 36,
+                    "stars": 35,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:55:44.833Z"
@@ -2304,11 +2304,11 @@
                     "id": 20929025,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-08T07:22:55Z",
-                    "open_issues": 5073,
+                    "last_commit": "2026-10-09T07:07:12Z",
+                    "open_issues": 5080,
                     "owner": "microsoft",
                     "repo": "TypeScript",
-                    "stars": 111395,
+                    "stars": 111369,
                     "topics": [
                       "javascript",
                       "language",
@@ -2331,10 +2331,10 @@
                     "language": "TypeScript",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-08T07:00:20Z",
-                    "open_issues": 756,
+                    "open_issues": 757,
                     "owner": "DefinitelyTyped",
                     "repo": "DefinitelyTyped",
-                    "stars": 51456,
+                    "stars": 51452,
                     "topics": [
                       "definition",
                       "dts",
@@ -2367,7 +2367,7 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2022-08-18T14:06:13Z",
-                    "open_issues": 2,
+                    "open_issues": 0,
                     "owner": "aurelia-contrib",
                     "repo": "awesome-aurelia",
                     "stars": 310,
@@ -2511,7 +2511,7 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2022-08-18T14:06:13Z",
-                    "open_issues": 2,
+                    "open_issues": 0,
                     "owner": "aurelia-contrib",
                     "repo": "awesome-aurelia",
                     "stars": 310,
@@ -2629,7 +2629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T08:32:27.290Z",
+    "last_updated": "2026-10-09T08:35:30.735Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Aurelia libraries.",
@@ -2638,7 +2638,7 @@
       "language": null,
       "license": null,
       "last_commit": "2022-08-18T14:06:13Z",
-      "open_issues": 2,
+      "open_issues": 0,
       "owner": "aurelia-contrib",
       "repo": "awesome-aurelia",
       "stars": 310,
