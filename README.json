@@ -424,11 +424,11 @@
                     "id": 97627474,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-17T01:11:18Z",
+                    "last_commit": "2026-10-17T21:52:52Z",
                     "open_issues": 18,
                     "owner": "stalniy",
                     "repo": "casl",
-                    "stars": 7101,
+                    "stars": 7100,
                     "topics": [
                       "acl",
                       "authorization",
@@ -2304,11 +2304,11 @@
                     "id": 20929025,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-17T01:22:36Z",
-                    "open_issues": 5121,
+                    "last_commit": "2026-10-18T04:59:10Z",
+                    "open_issues": 5122,
                     "owner": "microsoft",
                     "repo": "TypeScript",
-                    "stars": 111503,
+                    "stars": 111519,
                     "topics": [
                       "javascript",
                       "language",
@@ -2331,10 +2331,10 @@
                     "language": "TypeScript",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-16T23:57:45Z",
-                    "open_issues": 723,
+                    "open_issues": 722,
                     "owner": "DefinitelyTyped",
                     "repo": "DefinitelyTyped",
-                    "stars": 51446,
+                    "stars": 51447,
                     "topics": [
                       "definition",
                       "dts",
@@ -2629,7 +2629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T06:41:31.471Z",
+    "last_updated": "2026-10-18T07:02:25.615Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Aurelia libraries.",
