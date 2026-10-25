@@ -51,7 +51,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Official Resources
 
-* [Official GitHub Repo](https://github.com/aurelia/framework) ⭐ 11,675 | 🐛 60 | 🌐 TypeScript | 📅 2023-01-27
+* [Official GitHub Repo](https://github.com/aurelia/framework) ⭐ 11,676 | 🐛 60 | 🌐 TypeScript | 📅 2023-01-27
 * [Official Site](http://aurelia.io)
 * [Official Blog](http://blog.aurelia.io/)
 * [Official Documentation](http://aurelia.io/docs.html)
@@ -170,7 +170,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Aurelia Plugins
 
-* [casl-aurelia](https://github.com/stalniy/casl/tree/master/packages/casl-aurelia) ⭐ 7,102 | 🐛 21 | 🌐 TypeScript | 📅 2026-10-23 \* Permissions management plugin which allows to integrate Aurelia and CASL
+* [casl-aurelia](https://github.com/stalniy/casl/tree/master/packages/casl-aurelia) ⭐ 7,103 | 🐛 21 | 🌐 TypeScript | 📅 2026-10-23 \* Permissions management plugin which allows to integrate Aurelia and CASL
 * [**{{** add\_your\_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md) ⭐ 309 | 🐛 2 | 📅 2022-08-18
 * [aurelia-auth](https://github.com/paulvanbladel/aurelia-auth) ⭐ 198 | 🐛 30 | 🌐 JavaScript | 📅 2018-05-08 \* Token-based authentication plugin for aurelia
 * [aurelia-ui-framework](https://github.com/adarshpastakia/aurelia-ui-framework) ⚠️ Archived \* A bespoke UI Framework built on Aurelia for desktop business application
@@ -240,8 +240,8 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Aurelia Custom Element
 
-* [ag-grid-aurelia](https://github.com/ag-grid/ag-grid/tree/master/packages/ag-grid-aurelia) ⭐ 15,654 | 🐛 132 | 🌐 TypeScript | 📅 2026-10-24 \* The Aurelia Component for use with ag-Grid, an advanced data grid/data table - [Demo](https://www.ag-grid.com/best-aurelia-data-grid/)
-* [aurelia-chart](https://github.com/grofit/aurelia-chart) ⭐ 46 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-20 \* A chart element for aurelia which is powered by chart js using html5 canvas
+* [ag-grid-aurelia](https://github.com/ag-grid/ag-grid/tree/master/packages/ag-grid-aurelia) ⭐ 15,658 | 🐛 132 | 🌐 TypeScript | 📅 2026-10-24 \* The Aurelia Component for use with ag-Grid, an advanced data grid/data table - [Demo](https://www.ag-grid.com/best-aurelia-data-grid/)
+* [aurelia-chart](https://github.com/grofit/aurelia-chart) ⭐ 46 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-25 \* A chart element for aurelia which is powered by chart js using html5 canvas
 * [aurelia-v-grid](https://github.com/aurelia-ui-toolkits/aurelia-v-grid) ⭐ 22 | 🐛 1 | 📅 2017-08-27 \* aurelia-v-grid
 * [aurelia-leaflet](https://github.com/benib/aurelia-leaflet) ⭐ 16 | 🐛 4 | 🌐 JavaScript | 📅 2017-12-20 \* [A Leaflet CustomElement for Aurelia](http://benib.github.io/aurelia-leaflet/)
 * [aurelia-toolbelt](https://github.com/aurelia-toolbelt/aurelia-toolbelt) \* A set of components for bootstrap4, it also includes other components and value converters.
@@ -281,8 +281,8 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### TypeScript General Resources
 
-* [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) ⭐ 111,582 | 🐛 5,186 | 🌐 Go | 📅 2026-10-23 Official GitHub Repo for TypeScript
-* [DefinitelyTyped Repository (GitHub)](https://github.com/DefinitelyTyped/DefinitelyTyped) ⭐ 51,446 | 🐛 713 | 🌐 TypeScript | 📅 2026-10-23 The repository for high quality TypeScript type definitions.
+* [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) ⭐ 111,596 | 🐛 5,193 | 🌐 Go | 📅 2026-10-25 Official GitHub Repo for TypeScript
+* [DefinitelyTyped Repository (GitHub)](https://github.com/DefinitelyTyped/DefinitelyTyped) ⭐ 51,451 | 🐛 720 | 🌐 TypeScript | 📅 2026-10-24 The repository for high quality TypeScript type definitions.
 * [TypeScript](http://www.typescriptlang.org/) Official Website for TypeScript
 * [REPL](http://www.typescriptlang.org/Playground) Official TypeScript REPL that runs entirely in your browser
 * [TSD](http://definitelytyped.org/tsd) TypeScript Definition manager for DefinitelyTyped
@@ -352,4 +352,4 @@ A lot of times, making a PR adhere to the standards above can be difficult. If t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
