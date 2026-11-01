@@ -424,11 +424,11 @@
                     "id": 97627474,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-31T08:03:36Z",
+                    "last_commit": "2026-10-31T08:56:24Z",
                     "open_issues": 11,
                     "owner": "stalniy",
                     "repo": "casl",
-                    "stars": 7107,
+                    "stars": 7109,
                     "topics": [
                       "acl",
                       "authorization",
@@ -1831,7 +1831,7 @@
                     "open_issues": 131,
                     "owner": "ag-grid",
                     "repo": "ag-grid",
-                    "stars": 15670,
+                    "stars": 15671,
                     "topics": [
                       "angular",
                       "angular-grid",
@@ -2304,11 +2304,11 @@
                     "id": 20929025,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-30T23:35:22Z",
-                    "open_issues": 5222,
+                    "last_commit": "2026-11-01T07:08:14Z",
+                    "open_issues": 5233,
                     "owner": "microsoft",
                     "repo": "TypeScript",
-                    "stars": 111687,
+                    "stars": 111708,
                     "topics": [
                       "javascript",
                       "language",
@@ -2330,11 +2330,11 @@
                     "id": 6093316,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-31T05:08:31Z",
-                    "open_issues": 688,
+                    "last_commit": "2026-10-31T18:56:19Z",
+                    "open_issues": 691,
                     "owner": "DefinitelyTyped",
                     "repo": "DefinitelyTyped",
-                    "stars": 51462,
+                    "stars": 51465,
                     "topics": [
                       "definition",
                       "dts",
@@ -2629,7 +2629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T08:06:00.024Z",
+    "last_updated": "2026-11-01T08:51:19.453Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Aurelia libraries.",
