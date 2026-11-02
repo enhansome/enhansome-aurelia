@@ -425,7 +425,7 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-10-31T08:56:24Z",
-                    "open_issues": 11,
+                    "open_issues": 15,
                     "owner": "stalniy",
                     "repo": "casl",
                     "stars": 7109,
@@ -1106,7 +1106,7 @@
                     "open_issues": 2,
                     "owner": "MarcScheib",
                     "repo": "aurelia-notify",
-                    "stars": 17,
+                    "stars": 16,
                     "topics": [
                       "aurelia",
                       "notifications",
@@ -1831,7 +1831,7 @@
                     "open_issues": 131,
                     "owner": "ag-grid",
                     "repo": "ag-grid",
-                    "stars": 15671,
+                    "stars": 15672,
                     "topics": [
                       "angular",
                       "angular-grid",
@@ -2304,11 +2304,11 @@
                     "id": 20929025,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-01T07:08:14Z",
-                    "open_issues": 5233,
+                    "last_commit": "2026-11-02T07:07:14Z",
+                    "open_issues": 5245,
                     "owner": "microsoft",
                     "repo": "TypeScript",
-                    "stars": 111708,
+                    "stars": 111715,
                     "topics": [
                       "javascript",
                       "language",
@@ -2330,8 +2330,8 @@
                     "id": 6093316,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-31T18:56:19Z",
-                    "open_issues": 691,
+                    "last_commit": "2026-11-02T08:21:06Z",
+                    "open_issues": 696,
                     "owner": "DefinitelyTyped",
                     "repo": "DefinitelyTyped",
                     "stars": 51465,
@@ -2629,7 +2629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T08:51:19.453Z",
+    "last_updated": "2026-11-02T08:59:22.298Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Aurelia libraries.",
