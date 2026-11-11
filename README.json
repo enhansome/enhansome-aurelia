@@ -195,7 +195,7 @@
                     "open_issues": 2,
                     "owner": "aurelia-contrib",
                     "repo": "awesome-aurelia",
-                    "stars": 309,
+                    "stars": 310,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -307,7 +307,7 @@
                     "open_issues": 2,
                     "owner": "aurelia-contrib",
                     "repo": "awesome-aurelia",
-                    "stars": 309,
+                    "stars": 310,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -424,11 +424,11 @@
                     "id": 97627474,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-10T03:01:49Z",
-                    "open_issues": 15,
+                    "last_commit": "2026-11-10T21:11:14Z",
+                    "open_issues": 16,
                     "owner": "stalniy",
                     "repo": "casl",
-                    "stars": 7115,
+                    "stars": 7117,
                     "topics": [
                       "acl",
                       "authorization",
@@ -456,7 +456,7 @@
                     "open_issues": 2,
                     "owner": "aurelia-contrib",
                     "repo": "awesome-aurelia",
-                    "stars": 309,
+                    "stars": 310,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -526,7 +526,7 @@
                     "open_issues": 0,
                     "owner": "ghiscoding",
                     "repo": "aurelia-slickgrid",
-                    "stars": 132,
+                    "stars": 131,
                     "topics": [
                       "aurelia",
                       "bootstrap",
@@ -1711,7 +1711,7 @@
                     "open_issues": 0,
                     "owner": "SpoonX",
                     "repo": "aurelia-datatable",
-                    "stars": 32,
+                    "stars": 31,
                     "topics": [
                       "aurelia",
                       "aurelia-datatable",
@@ -1827,11 +1827,11 @@
                     "id": 28407613,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-10T07:21:47Z",
-                    "open_issues": 160,
+                    "last_commit": "2026-11-11T03:22:51Z",
+                    "open_issues": 162,
                     "owner": "ag-grid",
                     "repo": "ag-grid",
-                    "stars": 15675,
+                    "stars": 15679,
                     "topics": [
                       "angular",
                       "angular-grid",
@@ -2013,7 +2013,7 @@
                     "open_issues": 2,
                     "owner": "aurelia-contrib",
                     "repo": "awesome-aurelia",
-                    "stars": 309,
+                    "stars": 310,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -2304,11 +2304,11 @@
                     "id": 20929025,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-10T01:35:35Z",
-                    "open_issues": 5265,
+                    "last_commit": "2026-11-11T08:11:18Z",
+                    "open_issues": 5264,
                     "owner": "microsoft",
                     "repo": "TypeScript",
-                    "stars": 111868,
+                    "stars": 111873,
                     "topics": [
                       "javascript",
                       "language",
@@ -2330,11 +2330,11 @@
                     "id": 6093316,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-09T18:11:50Z",
-                    "open_issues": 876,
+                    "last_commit": "2026-11-10T19:29:27Z",
+                    "open_issues": 879,
                     "owner": "DefinitelyTyped",
                     "repo": "DefinitelyTyped",
-                    "stars": 51467,
+                    "stars": 51468,
                     "topics": [
                       "definition",
                       "dts",
@@ -2370,7 +2370,7 @@
                     "open_issues": 2,
                     "owner": "aurelia-contrib",
                     "repo": "awesome-aurelia",
-                    "stars": 309,
+                    "stars": 310,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -2514,7 +2514,7 @@
                     "open_issues": 2,
                     "owner": "aurelia-contrib",
                     "repo": "awesome-aurelia",
-                    "stars": 309,
+                    "stars": 310,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -2629,7 +2629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T09:24:38.053Z",
+    "last_updated": "2026-11-11T08:57:58.126Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Aurelia libraries.",
@@ -2641,7 +2641,7 @@
       "open_issues": 2,
       "owner": "aurelia-contrib",
       "repo": "awesome-aurelia",
-      "stars": 309,
+      "stars": 310,
       "topics": [
         "awesome",
         "awesome-list",
