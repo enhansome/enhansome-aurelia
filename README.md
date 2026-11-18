@@ -51,7 +51,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Official Resources
 
-* [Official GitHub Repo](https://github.com/aurelia/framework) ⭐ 11,674 | 🐛 60 | 🌐 TypeScript | 📅 2023-01-27
+* [Official GitHub Repo](https://github.com/aurelia/framework) ⭐ 11,675 | 🐛 60 | 🌐 TypeScript | 📅 2023-01-27
 * [Official Site](http://aurelia.io)
 * [Official Blog](http://blog.aurelia.io/)
 * [Official Documentation](http://aurelia.io/docs.html)
@@ -109,7 +109,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 #### Aurelia Generators
 
 * [zewa666/generator-aurelia](https://github.com/zewa666/generator-aurelia) ⭐ 76 | 🐛 0 | 🌐 JavaScript | 📅 2016-11-03 Yeoman generator for the JavaScript Framework Aurelia by @zewa666
-* [kristianmandrup/generator-aurelia-ts](https://github.com/kristianmandrup/generator-aurelia-ts) ⭐ 33 | 🐛 5 | 🌐 JavaScript | 📅 2022-07-22 Turbo Start generator for Aurelia apps by @kristianmandrup
+* [kristianmandrup/generator-aurelia-ts](https://github.com/kristianmandrup/generator-aurelia-ts) ⭐ 32 | 🐛 5 | 🌐 JavaScript | 📅 2022-07-22 Turbo Start generator for Aurelia apps by @kristianmandrup
 
 #### Aurelia Cheatsheet
 
@@ -240,7 +240,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Aurelia Custom Element
 
-* [ag-grid-aurelia](https://github.com/ag-grid/ag-grid/tree/master/packages/ag-grid-aurelia) ⭐ 15,686 | 🐛 113 | 🌐 TypeScript | 📅 2026-11-17 \* The Aurelia Component for use with ag-Grid, an advanced data grid/data table - [Demo](https://www.ag-grid.com/best-aurelia-data-grid/)
+* [ag-grid-aurelia](https://github.com/ag-grid/ag-grid/tree/master/packages/ag-grid-aurelia) ⭐ 15,688 | 🐛 117 | 🌐 TypeScript | 📅 2026-11-18 \* The Aurelia Component for use with ag-Grid, an advanced data grid/data table - [Demo](https://www.ag-grid.com/best-aurelia-data-grid/)
 * [aurelia-chart](https://github.com/grofit/aurelia-chart) ⭐ 46 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-29 \* A chart element for aurelia which is powered by chart js using html5 canvas
 * [aurelia-v-grid](https://github.com/aurelia-ui-toolkits/aurelia-v-grid) ⭐ 22 | 🐛 1 | 📅 2017-08-27 \* aurelia-v-grid
 * [aurelia-leaflet](https://github.com/benib/aurelia-leaflet) ⭐ 16 | 🐛 4 | 🌐 JavaScript | 📅 2017-12-20 \* [A Leaflet CustomElement for Aurelia](http://benib.github.io/aurelia-leaflet/)
@@ -281,8 +281,8 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### TypeScript General Resources
 
-* [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) ⭐ 111,837 | 🐛 5,304 | 🌐 Go | 📅 2026-11-17 Official GitHub Repo for TypeScript
-* [DefinitelyTyped Repository (GitHub)](https://github.com/DefinitelyTyped/DefinitelyTyped) ⭐ 51,481 | 🐛 893 | 🌐 TypeScript | 📅 2026-11-16 The repository for high quality TypeScript type definitions.
+* [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) ⭐ 111,840 | 🐛 5,285 | 🌐 Go | 📅 2026-11-18 Official GitHub Repo for TypeScript
+* [DefinitelyTyped Repository (GitHub)](https://github.com/DefinitelyTyped/DefinitelyTyped) ⭐ 51,483 | 🐛 893 | 🌐 TypeScript | 📅 2026-11-17 The repository for high quality TypeScript type definitions.
 * [TypeScript](http://www.typescriptlang.org/) Official Website for TypeScript
 * [REPL](http://www.typescriptlang.org/Playground) Official TypeScript REPL that runs entirely in your browser
 * [TSD](http://definitelytyped.org/tsd) TypeScript Definition manager for DefinitelyTyped
@@ -352,4 +352,4 @@ A lot of times, making a PR adhere to the standards above can be difficult. If t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
