@@ -23,7 +23,7 @@
                     "open_issues": 60,
                     "owner": "aurelia",
                     "repo": "framework",
-                    "stars": 11672,
+                    "stars": 11673,
                     "topics": [
                       "aurelia-framework",
                       "cross-platform",
@@ -428,7 +428,7 @@
                     "open_issues": 19,
                     "owner": "stalniy",
                     "repo": "casl",
-                    "stars": 7121,
+                    "stars": 7120,
                     "topics": [
                       "acl",
                       "authorization",
@@ -1827,11 +1827,11 @@
                     "id": 28407613,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-24T11:58:33Z",
-                    "open_issues": 100,
+                    "last_commit": "2026-11-25T10:47:51Z",
+                    "open_issues": 84,
                     "owner": "ag-grid",
                     "repo": "ag-grid",
-                    "stars": 15695,
+                    "stars": 15694,
                     "topics": [
                       "angular",
                       "angular-grid",
@@ -2304,11 +2304,11 @@
                     "id": 20929025,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-24T06:40:25Z",
-                    "open_issues": 5292,
+                    "last_commit": "2026-11-25T01:22:01Z",
+                    "open_issues": 5284,
                     "owner": "microsoft",
                     "repo": "TypeScript",
-                    "stars": 111879,
+                    "stars": 111896,
                     "topics": [
                       "javascript",
                       "language",
@@ -2330,11 +2330,11 @@
                     "id": 6093316,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-24T08:56:01Z",
-                    "open_issues": 880,
+                    "last_commit": "2026-11-25T09:47:23Z",
+                    "open_issues": 843,
                     "owner": "DefinitelyTyped",
                     "repo": "DefinitelyTyped",
-                    "stars": 51488,
+                    "stars": 51492,
                     "topics": [
                       "definition",
                       "dts",
@@ -2629,7 +2629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T12:06:19.366Z",
+    "last_updated": "2026-11-25T10:57:21.577Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Aurelia libraries.",
