@@ -51,7 +51,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Official Resources
 
-* [Official GitHub Repo](https://github.com/aurelia/framework) ⭐ 11,673 | 🐛 60 | 🌐 TypeScript | 📅 2023-01-27
+* [Official GitHub Repo](https://github.com/aurelia/framework) ⭐ 11,674 | 🐛 60 | 🌐 TypeScript | 📅 2023-01-27
 * [Official Site](http://aurelia.io)
 * [Official Blog](http://blog.aurelia.io/)
 * [Official Documentation](http://aurelia.io/docs.html)
@@ -170,7 +170,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Aurelia Plugins
 
-* [casl-aurelia](https://github.com/stalniy/casl/tree/master/packages/casl-aurelia) ⭐ 7,120 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-24 \* Permissions management plugin which allows to integrate Aurelia and CASL
+* [casl-aurelia](https://github.com/stalniy/casl/tree/master/packages/casl-aurelia) ⭐ 7,121 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-24 \* Permissions management plugin which allows to integrate Aurelia and CASL
 * [**{{** add\_your\_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md) ⭐ 309 | 🐛 0 | 📅 2022-08-18
 * [aurelia-auth](https://github.com/paulvanbladel/aurelia-auth) ⭐ 196 | 🐛 30 | 🌐 JavaScript | 📅 2018-05-08 \* Token-based authentication plugin for aurelia
 * [aurelia-ui-framework](https://github.com/adarshpastakia/aurelia-ui-framework) ⚠️ Archived \* A bespoke UI Framework built on Aurelia for desktop business application
@@ -232,7 +232,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 #### Aurelia Implementation
 
 * [aurelia-datatable](https://github.com/SpoonX/aurelia-datatable) ⚠️ Archived \* A 100% aurelia based data table component <http://aurelia-datatable.spoonx.org>
-* [stamp-web/stamp-web-aurelia](https://github.com/stamp-web/stamp-web-aurelia) ⭐ 17 | 🐛 13 | 🌐 JavaScript | 📅 2026-08-20 \* Next Generation Stamp Web Editor written in Aurelio with Bootstrap
+* [stamp-web/stamp-web-aurelia](https://github.com/stamp-web/stamp-web-aurelia) ⭐ 17 | 🐛 13 | 🌐 JavaScript | 📅 2026-11-25 \* Next Generation Stamp Web Editor written in Aurelio with Bootstrap
 * [aurelia-tabs](https://github.com/Vheissu/aurelia-tabs) ⭐ 13 | 🐛 3 | 🌐 CSS | 📅 2016-08-23 \* A dependency free tabs component for your Aurelia applications. Allows you to toggle between sections of content, with supports for dynamically composing views with optional data
 * [aurelia-animator-tinyanimate](https://github.com/gooy/aurelia-animator-tinyanimate) ⭐ 3 | 🐛 1 | 🌐 JavaScript | 📅 2015-06-05 \* Implementation of the Aurelia base animator using TinyAnimate
 * [sukobuto/aurelia-tinymce-sample](https://github.com/sukobuto/aurelia-tinymce-sample) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2015-11-15 \* Sample app with Aurelia and TinyMCE
@@ -240,7 +240,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Aurelia Custom Element
 
-* [ag-grid-aurelia](https://github.com/ag-grid/ag-grid/tree/master/packages/ag-grid-aurelia) ⭐ 15,694 | 🐛 84 | 🌐 TypeScript | 📅 2026-11-25 \* The Aurelia Component for use with ag-Grid, an advanced data grid/data table - [Demo](https://www.ag-grid.com/best-aurelia-data-grid/)
+* [ag-grid-aurelia](https://github.com/ag-grid/ag-grid/tree/master/packages/ag-grid-aurelia) ⭐ 15,699 | 🐛 89 | 🌐 TypeScript | 📅 2026-11-26 \* The Aurelia Component for use with ag-Grid, an advanced data grid/data table - [Demo](https://www.ag-grid.com/best-aurelia-data-grid/)
 * [aurelia-chart](https://github.com/grofit/aurelia-chart) ⭐ 46 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-29 \* A chart element for aurelia which is powered by chart js using html5 canvas
 * [aurelia-v-grid](https://github.com/aurelia-ui-toolkits/aurelia-v-grid) ⭐ 22 | 🐛 1 | 📅 2017-08-27 \* aurelia-v-grid
 * [aurelia-leaflet](https://github.com/benib/aurelia-leaflet) ⭐ 16 | 🐛 4 | 🌐 JavaScript | 📅 2017-12-20 \* [A Leaflet CustomElement for Aurelia](http://benib.github.io/aurelia-leaflet/)
@@ -281,8 +281,8 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### TypeScript General Resources
 
-* [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) ⭐ 111,896 | 🐛 5,284 | 🌐 Go | 📅 2026-11-25 Official GitHub Repo for TypeScript
-* [DefinitelyTyped Repository (GitHub)](https://github.com/DefinitelyTyped/DefinitelyTyped) ⭐ 51,492 | 🐛 843 | 🌐 TypeScript | 📅 2026-11-25 The repository for high quality TypeScript type definitions.
+* [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) ⭐ 111,909 | 🐛 5,298 | 🌐 Go | 📅 2026-11-25 Official GitHub Repo for TypeScript
+* [DefinitelyTyped Repository (GitHub)](https://github.com/DefinitelyTyped/DefinitelyTyped) ⭐ 51,494 | 🐛 839 | 🌐 TypeScript | 📅 2026-11-26 The repository for high quality TypeScript type definitions.
 * [TypeScript](http://www.typescriptlang.org/) Official Website for TypeScript
 * [REPL](http://www.typescriptlang.org/Playground) Official TypeScript REPL that runs entirely in your browser
 * [TSD](http://definitelytyped.org/tsd) TypeScript Definition manager for DefinitelyTyped
@@ -352,4 +352,4 @@ A lot of times, making a PR adhere to the standards above can be difficult. If t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
